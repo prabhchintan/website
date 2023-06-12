@@ -4,6 +4,25 @@
     {
       "articleType" : 0,
       "attachments" : [
+        "_cover.png"
+      ],
+      "cids" : {
+        "_cover.png" : "QmbSF6YvNqwrntSn57eVdX4Ys5qCz1Bxuyw1ypPxoU3CWa"
+      },
+      "content" : "dfaefaef",
+      "created" : 708295157.32178795,
+      "externalLink" : "",
+      "hasAudio" : false,
+      "hasVideo" : false,
+      "heroImage" : "https://retroflex.xyz/four/_cover.png",
+      "id" : "0B6E66B0-CB44-4E22-A3DC-F7EB7801C226",
+      "link" : "/four/",
+      "slug" : "four",
+      "title" : "4pm fix"
+    },
+    {
+      "articleType" : 0,
+      "attachments" : [
         "IMG_0050.JPG",
         "IMG_0088.mov",
         "IMG_0941.JPG",
@@ -105,5 +124,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708294045.09957004
+  "updated" : 708295181.54456306
 }

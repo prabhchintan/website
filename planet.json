@@ -4,21 +4,24 @@
     {
       "articleType" : 0,
       "attachments" : [
-        "IMG_1404.png"
+        "IMG_1404.png",
+        "IMG_0088.mov"
       ],
       "cids" : {
+        "IMG_0088.mov" : "QmURZwLWFBddMWag7gfoFo3RKPm5Ybp2uyyNW4TW16uriX",
         "IMG_1404.png" : "QmciD9vvEZCJVJiqNqCgSrQKy2vvTHrhtThczAGK7oT7sR"
       },
-      "content" : "does this make it on the other side at noon?\n\n<img width=\"474\" alt=\"IMG_1404\" src=\"IMG_1404.png\">",
+      "content" : "does this make it on the other side at noon?\n\n\n\n<img width=\"474\" alt=\"IMG_1404\" src=\"IMG_1404.png\">",
       "created" : 708280546.47160006,
       "externalLink" : "",
       "hasAudio" : false,
-      "hasVideo" : false,
-      "heroImage" : "https://retroflex.xyz/entry/IMG_1404.png",
+      "hasVideo" : true,
+      "heroImage" : "https://retroflex.xyz/entry/_videoThumbnail.png",
       "id" : "F63C70DD-D110-4803-B128-652362A09F84",
       "link" : "/entry/",
       "slug" : "entry",
-      "title" : "New Entry"
+      "title" : "New Entry",
+      "videoFilename" : "IMG_0088.mov"
     },
     {
       "articleType" : 0,
@@ -76,5 +79,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708281782.81446695
+  "updated" : 708283074.06767201
 }

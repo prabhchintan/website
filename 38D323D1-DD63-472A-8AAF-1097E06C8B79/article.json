@@ -1,17 +1,16 @@
 {
   "articleType" : 1,
   "attachments" : [
-    "_cover.png"
+    "Prab_Randhawa_Resume.pdf"
   ],
   "cids" : {
-    "_cover.png" : "Qmb5W8McBFZxR1q4qKmA9ZKwQExt7xKapN7obqqwHMcyUn"
+    "Prab_Randhawa_Resume.pdf" : "QmZ5YGUTAhpRReKg58Msc4QBGR4MrFh3j99T9mtftzNZ5a"
   },
-  "content" : "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+  "content" : "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥\n\n<a href=\"Prab_Randhawa_Resume.pdf\">Prab_Randhawa_Resume.pdf</a>",
   "created" : 649515824.61119294,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
-  "heroImage" : "https://retroflex.xyz/about/_cover.png",
   "id" : "38D323D1-DD63-472A-8AAF-1097E06C8B79",
   "link" : "/about/",
   "slug" : "about",

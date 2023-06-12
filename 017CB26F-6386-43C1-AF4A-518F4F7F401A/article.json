@@ -1,15 +1,22 @@
 {
   "articleType" : 0,
   "attachments" : [
-    "IMG_0050.JPG"
+    "IMG_0050.JPG",
+    "IMG_0941.JPG",
+    "Mera Ranjha [www.desidefinition.com].mp3"
   ],
+  "audioByteLength" : 6699874,
+  "audioDuration" : 215,
+  "audioFilename" : "Mera Ranjha [www.desidefinition.com].mp3",
   "cids" : {
-    "IMG_0050.JPG" : "QmSj7ThzXorSNgTvq9VhMNrMkhMMV5G3u9wxuhrpQ8u1Gw"
+    "IMG_0050.JPG" : "QmSj7ThzXorSNgTvq9VhMNrMkhMMV5G3u9wxuhrpQ8u1Gw",
+    "IMG_0941.JPG" : "QmVvmXwumPkyazbtraSzdu1ZsfKUSoZ9NpfLV1SXcpaB1Z",
+    "Mera Ranjha [www.desidefinition.com].mp3" : "QmPyhhUT7LexscpFhZeBSdW9dVfXGq9FSXNdK2USZVotVQ"
   },
-  "content" : "<center>serygf;ifhu;seifguhse;bdvg\n\n<img width=\"1322\" alt=\"IMG_0050\" src=\"IMG_0050.JPG\">",
+  "content" : "<center>serygf;ifhu;seifguhse;bdvg\n\n\n\n<img width=\"1322\" alt=\"IMG_0050\" src=\"IMG_0050.JPG\">\n\n<img width=\"800\" alt=\"IMG_0941\" src=\"IMG_0941.JPG\">",
   "created" : 708288654.79118299,
   "externalLink" : "",
-  "hasAudio" : false,
+  "hasAudio" : true,
   "hasVideo" : false,
   "heroImage" : "https://retroflex.xyz/one/IMG_0050.JPG",
   "id" : "017CB26F-6386-43C1-AF4A-518F4F7F401A",

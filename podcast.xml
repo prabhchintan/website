@@ -9,7 +9,7 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     >
 <channel>
-    <title>&#x768;</title>
+    <title>&#xA74;</title>
     <atom:link href="https://retroflex.xyz/podcast.xml" rel="self" type="application/rss+xml" />
     <link>https://retroflex.xyz/</link>
     <description><![CDATA[
@@ -23,17 +23,23 @@
     
     
     <item>
-        <title>New Blog to See if It&#x27;s Working</title>
-        <link>https://retroflex.xyz/9E4B2A0C-9788-4B4B-95AD-1E3BAF1F6429/</link>
-        <guid>https://retroflex.xyz/9E4B2A0C-9788-4B4B-95AD-1E3BAF1F6429/</guid>
-        <pubDate>Sun, 11 Jun 2023 21:18:18 -0500</pubDate>
+        <title>One more Timexyz</title>
+        <link>https://retroflex.xyz/017CB26F-6386-43C1-AF4A-518F4F7F401A/</link>
+        <guid>https://retroflex.xyz/017CB26F-6386-43C1-AF4A-518F4F7F401A/</guid>
+        <pubDate>Mon, 12 Jun 2023 13:50:54 -0500</pubDate>
+        
+        <itunes:image href="https://retroflex.xyz/one/IMG_0050.JPG" />    
         
         
-        <enclosure url="https://retroflex.xyz/9E4B2A0C-9788-4B4B-95AD-1E3BAF1F6429/Joe Rogan Experience #1554 - Kanye West.mp3" length="170376621" type="audio/mpeg" />
-        <itunes:duration>02:57:28</itunes:duration>
+        <enclosure url="https://retroflex.xyz/017CB26F-6386-43C1-AF4A-518F4F7F401A/Mera Ranjha [www.desidefinition.com].mp3" length="6699874" type="audio/mpeg" />
+        <itunes:duration>00:03:35</itunes:duration>
         
         <description><![CDATA[
-            <p>af</p>
+            <center>
+ serygf;ifhu;seifguhse;bdvg 
+ <img width="1322" alt="IMG_0050" src="https://retroflex.xyz/017CB26F-6386-43C1-AF4A-518F4F7F401A/IMG_0050.JPG"> 
+ <img width="800" alt="IMG_0941" src="https://retroflex.xyz/017CB26F-6386-43C1-AF4A-518F4F7F401A/IMG_0941.JPG"> 
+</center>
         ]]></description>
     </item>
     

@@ -6,7 +6,7 @@
   "cids" : {
     "IMG_1404.png" : "QmciD9vvEZCJVJiqNqCgSrQKy2vvTHrhtThczAGK7oT7sR"
   },
-  "content" : "does this make it on the other side at noon?\n\n\n\n<center><img width=\"474\" alt=\"IMG_1404\" src=\"IMG_1404.png\"></center>",
+  "content" : "does this make it on the other side at noon?\n\n<img width=\"474\" alt=\"IMG_1404\" src=\"IMG_1404.png\">",
   "created" : 708280546.47160006,
   "externalLink" : "",
   "hasAudio" : false,

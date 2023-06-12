@@ -1,0 +1,19 @@
+{
+  "articleType" : 1,
+  "attachments" : [
+    "_cover.png"
+  ],
+  "cids" : {
+    "_cover.png" : "QmWQJK7hhkJGw6MhQqdnFjunRAaexzXyfzoCuyg8r8W44N"
+  },
+  "content" : "",
+  "created" : 708238514.08337796,
+  "externalLink" : "https://google.com",
+  "hasAudio" : false,
+  "hasVideo" : false,
+  "heroImage" : "https://retroflex.xyz/test/_cover.png",
+  "id" : "8F53AAD7-90E9-4462-8448-68443666CD76",
+  "link" : "/test/",
+  "slug" : "test",
+  "title" : "Test"
+}

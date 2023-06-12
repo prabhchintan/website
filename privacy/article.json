@@ -1,0 +1,19 @@
+{
+  "articleType" : 1,
+  "attachments" : [
+    "_cover.png"
+  ],
+  "cids" : {
+    "_cover.png" : "Qmd8giVE3yyLaZAD2HYm7y5aBxfqXPsca6UeEzgMZbeSFr"
+  },
+  "content" : "afaefaf",
+  "created" : 708244169.93146503,
+  "externalLink" : "",
+  "hasAudio" : false,
+  "hasVideo" : false,
+  "heroImage" : "https://retroflex.xyz/privacy/_cover.png",
+  "id" : "5E27F91C-12AF-49A2-AD76-F2F614B7554A",
+  "link" : "/privacy/",
+  "slug" : "privacy",
+  "title" : "Privacy"
+}

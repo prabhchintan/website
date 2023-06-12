@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    >
+<channel>
+    <title>&#x768;</title>
+    <atom:link href="https://retroflex.xyz/podcast.xml" rel="self" type="application/rss+xml" />
+    <link>https://retroflex.xyz/</link>
+    <description><![CDATA[
+    
+    ]]></description>
+    
+    
+    <language>en</language>
+    <itunes:explicit>no</itunes:explicit>
+    
+    
+    
+    <item>
+        <title>New Blog to See if It&#x27;s Working</title>
+        <link>https://retroflex.xyz/9E4B2A0C-9788-4B4B-95AD-1E3BAF1F6429/</link>
+        <guid>https://retroflex.xyz/9E4B2A0C-9788-4B4B-95AD-1E3BAF1F6429/</guid>
+        <pubDate>Sun, 11 Jun 2023 21:18:18 -0500</pubDate>
+        
+        
+        <enclosure url="https://retroflex.xyz/9E4B2A0C-9788-4B4B-95AD-1E3BAF1F6429/Joe Rogan Experience #1554 - Kanye West.mp3" length="170376621" type="audio/mpeg" />
+        <itunes:duration>02:57:28</itunes:duration>
+        
+        <description><![CDATA[
+            <p>af</p>
+        ]]></description>
+    </item>
+    
+</channel>
+</rss>

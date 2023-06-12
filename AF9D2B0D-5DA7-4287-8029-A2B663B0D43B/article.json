@@ -1,0 +1,19 @@
+{
+  "articleType" : 0,
+  "attachments" : [
+    "_cover.png"
+  ],
+  "cids" : {
+    "_cover.png" : "Qmbfn7SgioTugBdQK442rMup6cjeD3Ukk1su4JbJ4tybLY"
+  },
+  "content" : "jgfktfdutdfuy",
+  "created" : 708234988.83443904,
+  "externalLink" : "",
+  "hasAudio" : false,
+  "hasVideo" : false,
+  "heroImage" : "https://retroflex.xyz/another/_cover.png",
+  "id" : "AF9D2B0D-5DA7-4287-8029-A2B663B0D43B",
+  "link" : "/another/",
+  "slug" : "another",
+  "title" : "another"
+}

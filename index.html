@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta content="True" name="HandheldFriendly">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=auto">
+    <meta name="theme-color" content="#fff" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1c1c1e" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="./assets/style.css?sha256=3cc0464065d3f073168511e1307571113ffac06c8fdd5e858d3e0d8d0ef760bd">
+    <link rel="preload" href="./planet.json" as="fetch" type="application/json" crossorigin="anonymous">
+    <link rel="preload" href="./rss.xml" as="fetch" type="application/rss+xml" crossorigin="anonymous">
+    <title>&#xA74;</title>
+    <script type="text/javascript" src="./assets/utils.js"></script>
+    <script>
+      let userAgentRegex = /Planet\/\S*/;
+      window.PLANET = {
+        visitedFromPlanetClient: !!navigator.userAgent.match(userAgentRegex),
+        assetsPrefix: './',
+      };
+
+      function breadcrumb(stubs) {
+        let container = document.createElement('div');
+        container.classList.add('breadcrumb')
+        let inner = document.createElement('div');
+        inner.classList.add('breadcrumb-inner');
+        container.appendChild(inner);
+        if (!stubs || !stubs.length) {
+          return;
+        }
+
+        const getStubElem = (stub) => {
+          let elem;
+          if (stub.url) {
+            elem = document.createElement('a');
+            elem.href = stub.url;
+          } else {
+            elem = document.createElement('span');
+          }
+          elem.innerText = stub.text;
+          if (stub.classes) {
+            elem.classList.add(...stub.classes);
+          }
+          return elem;
+        };
+
+        const getSeparatorElem = () => {
+          let elem = document.createElement('span');
+          elem.innerText = '›';
+          elem.classList.add("chevron");
+          return elem;
+        }
+
+        inner.append(getStubElem(stubs[0]));
+        inner.append(getSeparatorElem());
+        for (let i = 1; i < stubs.length; i++)  {
+          inner.append(getStubElem(stubs[i]));
+          if (i < stubs.length - 1) {
+            inner.append(getSeparatorElem());
+          }
+        }
+
+        let main = document.querySelector('.wrapper');
+        main.insertAdjacentElement('afterbegin', container);
+      }
+    </script>
+    
+    
+<!-- Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="&#xA74;" />
+<meta property="og:description" content="" />
+<meta property="og:site_name" content="&#xA74;" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="&#xA74;" />
+<meta name="twitter:title" content="&#xA74;" />
+<meta name="twitter:description" content="" />
+
+<!-- End Open Graph Tags -->
+
+<!-- Pagination -->
+
+
+
+    
+    
+  </head>
+  <body>
+    <center>
+        <br>
+    <!-- Add a placeholder for the Twitch embed -->
+    <div id="twitch-embed"></div>
+
+    <!-- Load the Twitch embed script -->
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element. -->
+    <script type="text/javascript">
+      var embed = new Twitch.Embed("twitch-embed", {
+        width: 320,
+        height: 200,
+        channel: "prabhchintan",
+        layout: "video",
+        autoplay: true,
+        muted: false,
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["xn--spb.com"]
+      });
+
+      embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
+        var player = embed.getPlayer();
+        player.play();
+      });
+    </script>
+  </center>
+    <div class="wrapper">
+      <div class="main">
+      
+<div class="top">
+  
+  <div class="site-info">
+    <div class="site-title">&#xA74;</div>
+    
+  </div>
+</div>
+
+<div class="nav-container"><div class="nav">
+  <a href="./" class="nav-current">Home</a>
+  
+  <a href="./about/" class="nav-item">About</a>
+  
+  <a href="./rss.xml" target="_blank"><img src="./assets/rss.svg" alt="RSS" class="social-icon" width="1em"></a>
+  
+  
+  <a href="https://twitter.com/prabhchintan" target="_blank"><img src="./assets/twitter.svg" alt="twitter.com/prabhchintan" class="social-icon" width="1em"></a>
+  
+  
+  <a href="https://github.com/prabhchintan" target="_blank"><img src="./assets/github.svg" alt="github.com/prabhchintan" class="social-icon" width="1em"></a>
+  
+  
+  
+</div></div>
+
+<div class="items">
+  
+  <div class="item">
+    
+    <!--<div class="item-hero-image"><a href="AF9D2B0D-5DA7-4287-8029-A2B663B0D43B/"><img src="AF9D2B0D-5DA7-4287-8029-A2B663B0D43B/https://retroflex.xyz/another/_cover.png"></a></div>-->
+    
+    <div class="item-main">
+      <div class="item-title"><a href="./another/">another</a></div>
+      <div class="item-info">
+        <div class="item-date">Jun 11, 2023</div>
+        
+        
+      </div>
+    </div>
+  </div>
+  
+  <div class="item">
+    
+    <!--<div class="item-hero-image"><a href="3730C51A-B7D4-4CEF-9ABB-3D6851B08182/"><img src="3730C51A-B7D4-4CEF-9ABB-3D6851B08182/https://retroflex.xyz/hello/_cover.png"></a></div>-->
+    
+    <div class="item-main">
+      <div class="item-title"><a href="./hello/">Hello World</a></div>
+      <div class="item-info">
+        <div class="item-date">Apr 4, 2023</div>
+        
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+<div class="pages-container">
+  
+  <div class="pages-info">Page 1 of 1</div>
+  
+</div>
+
+
+        <footer id="footer" style="display: none;"><div class="footer-inner">
+        </div></footer>
+      </div>
+    </div>
+    <style>
+  .pages-container {
+    display: none;
+  }
+  @media (prefers-color-scheme: dark) {
+    /* all your styles for dark mode here */
+}
+</style>
+
+<center>
+  <a href="mailto:prab@hey.com">Contact</a> - 
+  <a href="https://retroflex.xyz/subscribe">Subscribe</a> -
+  <a href="https://retroflex.xyz/privacy">Privacy</a>
+-
+  <a href="https://retroflex.xyz/store">Store</a>
+  
+</center> <p> 
+</p>
+  </body>
+</html>

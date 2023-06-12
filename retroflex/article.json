@@ -1,17 +1,17 @@
 {
   "articleType" : 1,
   "attachments" : [
-    "IMG_1404.png"
+    "IMG_0012.jpg"
   ],
   "cids" : {
-    "IMG_1404.png" : "QmciD9vvEZCJVJiqNqCgSrQKy2vvTHrhtThczAGK7oT7sR"
+    "IMG_0012.jpg" : "QmNve33CCEbSjft4rURJZ3To6pAtiKGjQDdjk5Mzgm5hKn"
   },
-  "content" : "does this make it on the other side at noon?\n\n<img width=\"474\" alt=\"IMG_1404\" src=\"IMG_1404.png\">",
+  "content" : "does this make it on the other side at noon?\n\n<img width=\"790\" alt=\"IMG_0012\" src=\"IMG_0012.jpg\">",
   "created" : 708280546.47160006,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
-  "heroImage" : "https://retroflex.xyz/retroflex/IMG_1404.png",
+  "heroImage" : "https://retroflex.xyz/retroflex/IMG_0012.jpg",
   "id" : "F63C70DD-D110-4803-B128-652362A09F84",
   "link" : "/retroflex/",
   "slug" : "retroflex",

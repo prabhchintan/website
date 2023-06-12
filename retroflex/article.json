@@ -1,5 +1,5 @@
 {
-  "articleType" : 0,
+  "articleType" : 1,
   "attachments" : [
     "IMG_1404.png"
   ],
@@ -11,9 +11,9 @@
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
-  "heroImage" : "https://retroflex.xyz/new/IMG_1404.png",
+  "heroImage" : "https://retroflex.xyz/retroflex/IMG_1404.png",
   "id" : "F63C70DD-D110-4803-B128-652362A09F84",
-  "link" : "/new/",
-  "slug" : "new",
-  "title" : "New New Entry"
+  "link" : "/retroflex/",
+  "slug" : "retroflex",
+  "title" : "Retroflex"
 }

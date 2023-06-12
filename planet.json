@@ -14,11 +14,11 @@
       "externalLink" : "",
       "hasAudio" : false,
       "hasVideo" : false,
-      "heroImage" : "https://retroflex.xyz/entry/IMG_1404.png",
+      "heroImage" : "https://retroflex.xyz/new/IMG_1404.png",
       "id" : "F63C70DD-D110-4803-B128-652362A09F84",
-      "link" : "/entry/",
-      "slug" : "entry",
-      "title" : "New Entry"
+      "link" : "/new/",
+      "slug" : "new",
+      "title" : "New New Entry"
     },
     {
       "articleType" : 0,
@@ -76,5 +76,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708283667.376827
+  "updated" : 708285732.99240506
 }

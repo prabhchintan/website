@@ -158,7 +158,7 @@
   "podcastCategories" : {
 
   },
-  "podcastExplicit" : false,
+  "podcastExplicit" : true,
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",

@@ -17,8 +17,10 @@
     ]]></description>
     
     
+    <itunes:image href="https://retroflex.xyz/podcastCoverArt.png"/>
+    
     <language>en</language>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>yes</itunes:explicit>
     
     
     

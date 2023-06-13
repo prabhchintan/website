@@ -7,6 +7,25 @@
         "_cover.png"
       ],
       "cids" : {
+        "_cover.png" : "QmTZspVasS17HTc6mhy2j9jRPHQZCLDpHbWnNTq7i24GH7"
+      },
+      "content" : "hgfku",
+      "created" : 708300105.73590195,
+      "externalLink" : "",
+      "hasAudio" : false,
+      "hasVideo" : false,
+      "heroImage" : "https://retroflex.xyz/6/_cover.png",
+      "id" : "DA7713D6-B1F7-4F39-A923-95051330BCFB",
+      "link" : "/6/",
+      "slug" : "6",
+      "title" : "6"
+    },
+    {
+      "articleType" : 0,
+      "attachments" : [
+        "_cover.png"
+      ],
+      "cids" : {
         "_cover.png" : "QmXJFr5bPVpZnqbcaUUmoeNg6xBHf1fahrSA4DdYUPdRTa"
       },
       "content" : "jyflv",
@@ -30,7 +49,7 @@
       },
       "content" : "dfaefaef",
       "created" : 708295157.32178795,
-      "externalLink" : "",
+      "externalLink" : "www.google.com",
       "hasAudio" : false,
       "hasVideo" : false,
       "heroImage" : "https://retroflex.xyz/four/_cover.png",
@@ -143,5 +162,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708299661.411443
+  "updated" : 708320022.05160606
 }

@@ -44,25 +44,6 @@
     {
       "articleType" : 0,
       "attachments" : [
-        "_cover.png"
-      ],
-      "cids" : {
-        "_cover.png" : "QmbejGbrKANWDb1TW6nEsfvpkGdMfDZMzpgHnKVtM8mWF6"
-      },
-      "content" : "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
-      "created" : 702316530.61036897,
-      "externalLink" : "",
-      "hasAudio" : false,
-      "hasVideo" : false,
-      "heroImage" : "https://retroflex.xyz/hello/_cover.png",
-      "id" : "3730C51A-B7D4-4CEF-9ABB-3D6851B08182",
-      "link" : "/hello/",
-      "slug" : "hello",
-      "title" : "Hello World"
-    },
-    {
-      "articleType" : 0,
-      "attachments" : [
         "IMG_0012.jpg"
       ],
       "cids" : {
@@ -135,5 +116,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708412003.54572999
+  "updated" : 708412465.82914305
 }

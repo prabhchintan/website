@@ -6,7 +6,7 @@
   "cids" : {
     "_cover.png" : "QmSB1bRpNfGUpy6SQT3KVneADhkSDkkjsBMJyyjsPTAmqb"
   },
-  "content" : "<h1>Book<p>Merch<p>Domains<p>Consulting",
+  "content" : "<h1><a href=\"google.com\">Book</a><p>Merch<p>Domains<p>Consulting",
   "created" : 708240349.25045705,
   "externalLink" : "",
   "hasAudio" : false,

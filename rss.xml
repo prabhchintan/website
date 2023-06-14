@@ -18,35 +18,6 @@
     
     
     <item>
-        <title>Documentary: Surinder Kaur</title>
-        <link>https://retroflex.xyz/DA7713D6-B1F7-4F39-A923-95051330BCFB/</link>
-        <guid>https://retroflex.xyz/DA7713D6-B1F7-4F39-A923-95051330BCFB/</guid>
-        <pubDate>Mon, 12 Jun 2023 17:01:45 -0500</pubDate>
-        
-        
-        <description><![CDATA[
-            <p>This is an audio recording of a documentary about Surinder Kaur. It contains a few of her songs I like.</p>
-        ]]></description>
-    </item>
-    
-    <item>
-        <title>Subscribe</title>
-        <link>https://retroflex.xyz/861F5FCA-A883-47BB-8A6F-F2209A6B24D1/</link>
-        <guid>https://retroflex.xyz/861F5FCA-A883-47BB-8A6F-F2209A6B24D1/</guid>
-        <pubDate>Mon, 12 Jun 2023 00:49:35 -0500</pubDate>
-        
-        <itunes:image href="https://retroflex.xyz/subscribe/_cover.png" />    
-        
-        
-        <description><![CDATA[
-            <p>Following is my Substack. I would appreciate you signing up. I promise to never spam you.<br> <br></p> 
-<center> 
- <iframe src="https://prabhchintan.substack.com/embed" width="320" height="200" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> 
-</center>
-        ]]></description>
-    </item>
-    
-    <item>
         <title>Shop</title>
         <link>https://retroflex.xyz/DAD18391-93E3-4689-8465-67F1E44316FB/</link>
         <guid>https://retroflex.xyz/DAD18391-93E3-4689-8465-67F1E44316FB/</guid>
@@ -78,7 +49,36 @@
     </item>
     
     <item>
-        <title>Retroflex.eth</title>
+        <title>Documentary: Surinder Kaur</title>
+        <link>https://retroflex.xyz/DA7713D6-B1F7-4F39-A923-95051330BCFB/</link>
+        <guid>https://retroflex.xyz/DA7713D6-B1F7-4F39-A923-95051330BCFB/</guid>
+        <pubDate>Sun, 12 Jun 2022 17:01:45 -0500</pubDate>
+        
+        
+        <description><![CDATA[
+            <p>This is an audio recording of a documentary about Surinder Kaur. It contains a few of her songs I like.</p>
+        ]]></description>
+    </item>
+    
+    <item>
+        <title>Subscribe</title>
+        <link>https://retroflex.xyz/861F5FCA-A883-47BB-8A6F-F2209A6B24D1/</link>
+        <guid>https://retroflex.xyz/861F5FCA-A883-47BB-8A6F-F2209A6B24D1/</guid>
+        <pubDate>Sat, 20 Nov 2021 12:07:35 -0600</pubDate>
+        
+        <itunes:image href="https://retroflex.xyz/subscribe/_cover.png" />    
+        
+        
+        <description><![CDATA[
+            <p>Following is my Substack. I would appreciate you signing up. I promise to never spam you.<br> <br></p> 
+<center> 
+ <iframe src="https://prabhchintan.substack.com/embed" width="320" height="200" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> 
+</center>
+        ]]></description>
+    </item>
+    
+    <item>
+        <title>Randhawa.eth</title>
         <link>https://retroflex.xyz/F63C70DD-D110-4803-B128-652362A09F84/</link>
         <guid>https://retroflex.xyz/F63C70DD-D110-4803-B128-652362A09F84/</guid>
         <pubDate>Sat, 13 Nov 2021 13:53:46 -0600</pubDate>

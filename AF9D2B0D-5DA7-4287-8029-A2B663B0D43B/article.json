@@ -6,7 +6,7 @@
   "cids" : {
     "_cover.png" : "QmRFCebsXh1Mzyw3aUS55roEuCNm9cuNzDy3ppcapbXUSQ"
   },
-  "content" : "I recorded a video the other day that I wanted to share:\n\n<center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></center>",
+  "content" : "I recorded a video the other day that I wanted to share:\n\n<center><iframe width=\"320\" height=\"200\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></center>",
   "created" : 708234988.83443904,
   "externalLink" : "",
   "hasAudio" : false,

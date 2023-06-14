@@ -1,17 +1,17 @@
 {
   "articleType" : 0,
   "attachments" : [
-    "_cover.png"
+    "IMG_0276.jpeg"
   ],
   "cids" : {
-    "_cover.png" : "QmaxjsPiuAbj3XEzZLRZXMjJpNRbctkae2nB1RgXff8Ghe"
+    "IMG_0276.jpeg" : "QmWGnRAb1feKzzRd6Eo562kzkJBUKh62jUruj6F5dGhXXG"
   },
-  "content" : "ੴ\n\nThis is Prabhchintan Randhawa from Austin,Texas.\n\nI made an open-source <a href=\"https://github.com/prabhchintan/website\">notebook on GitHub</a>.\n\nI will add to it gradually. Do subscribe.",
+  "content" : "<img width=\"1170\" alt=\"IMG_0276\" src=\"IMG_0276.jpeg\"><br><center>ੴਸਤਿਨਾਮੁਕਰਤਾਪੁਰਖੁਨਿਰਭਉਨਿਰਵੈਰੁਅਕਾਲਮੂਰਤਿਅਜੂਨੀਸੈਭੰਗੁਰਪ੍ਰਸਾਦਿ॥</center>\n\n\nHi, this is Prabhchintan Randhawa from Austin,Texas.\n\nI made an open-source <a href=\"https://github.com/prabhchintan/website\">notebook on GitHub</a>.\n\nI will add to it gradually. Do subscribe.",
   "created" : 649519580.27997696,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
-  "heroImage" : "https://retroflex.xyz/1/_cover.png",
+  "heroImage" : "https://retroflex.xyz/1/IMG_0276.jpeg",
   "id" : "2A3A30CE-E1DC-4475-91B9-B5BF0ACCB330",
   "link" : "/1/",
   "slug" : "1",

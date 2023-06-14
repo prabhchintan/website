@@ -1,0 +1,19 @@
+{
+  "articleType" : 1,
+  "attachments" : [
+    "_cover.png"
+  ],
+  "cids" : {
+    "_cover.png" : "QmPyGu7gBeuBnxViGrroXiPKMDcvmk5ND4gNh6gUqrExot"
+  },
+  "content" : "",
+  "created" : 708470510.53991306,
+  "externalLink" : "",
+  "hasAudio" : false,
+  "hasVideo" : false,
+  "heroImage" : "https://retroflex.xyz/book/_cover.png",
+  "id" : "EC7B895C-5FE5-4D61-85EA-C33A89519AC0",
+  "link" : "/book/",
+  "slug" : "book",
+  "title" : "Book"
+}

@@ -1,12 +1,12 @@
 {
-  "articleType" : 1,
+  "articleType" : 0,
   "attachments" : [
     "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg"
   ],
   "cids" : {
     "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg" : "QmPQFJxqxcxZyzcbeXQd9z6BMYbNjFsmAtsEshZg2zpuo6"
   },
-  "content" : "<center><img width=\"440\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\"><br>a\n\nType something here and see what happens.",
+  "content" : "<center><img width=\"440\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\"><br>",
   "created" : 649542884.61119294,
   "externalLink" : "",
   "hasAudio" : false,

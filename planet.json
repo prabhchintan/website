@@ -23,17 +23,19 @@
     {
       "articleType" : 0,
       "attachments" : [
-        "_cover.png"
+        "Documentary Surinder Kaur.mp3"
       ],
+      "audioByteLength" : 46899546,
+      "audioDuration" : 1954,
+      "audioFilename" : "Documentary Surinder Kaur.mp3",
       "cids" : {
-        "_cover.png" : "QmTZspVasS17HTc6mhy2j9jRPHQZCLDpHbWnNTq7i24GH7"
+        "Documentary Surinder Kaur.mp3" : "QmSh8UdFN2TpfRfSj2omYaBt9aSdUZqPkE1A1s7ueQyhmr"
       },
       "content" : "hgfku",
       "created" : 708300105.73590195,
       "externalLink" : "",
-      "hasAudio" : false,
+      "hasAudio" : true,
       "hasVideo" : false,
-      "heroImage" : "https://retroflex.xyz/6/_cover.png",
       "id" : "DA7713D6-B1F7-4F39-A923-95051330BCFB",
       "link" : "/6/",
       "slug" : "6",
@@ -181,5 +183,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708362558.69695902
+  "updated" : 708405279.58064401
 }

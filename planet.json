@@ -63,25 +63,6 @@
     {
       "articleType" : 0,
       "attachments" : [
-        "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg"
-      ],
-      "cids" : {
-        "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg" : "QmPQFJxqxcxZyzcbeXQd9z6BMYbNjFsmAtsEshZg2zpuo6"
-      },
-      "content" : "<center><img width=\"440\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\"><br>",
-      "created" : 649542884.61119294,
-      "externalLink" : "",
-      "hasAudio" : false,
-      "hasVideo" : false,
-      "heroImage" : "https://retroflex.xyz/about/17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg",
-      "id" : "38D323D1-DD63-472A-8AAF-1097E06C8B79",
-      "link" : "/about/",
-      "slug" : "about",
-      "title" : "About"
-    },
-    {
-      "articleType" : 0,
-      "attachments" : [
         "IMG_0276.jpeg"
       ],
       "cids" : {
@@ -116,5 +97,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708414636.23474896
+  "updated" : 708414790.90641797
 }

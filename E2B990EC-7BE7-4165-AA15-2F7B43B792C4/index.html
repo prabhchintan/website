@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta content="True" name="HandheldFriendly">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=auto">
+    <meta name="theme-color" content="#fff" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1c1c1e" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="../assets/style.css?sha256=3cc0464065d3f073168511e1307571113ffac06c8fdd5e858d3e0d8d0ef760bd">
+    <link rel="preload" href="../planet.json" as="fetch" type="application/json" crossorigin="anonymous">
+    <link rel="preload" href="../rss.xml" as="fetch" type="application/rss+xml" crossorigin="anonymous">
+    <title>DecafQuest</title>
+    <script type="text/javascript" src="../assets/utils.js"></script>
+    <script>
+      let userAgentRegex = /Planet\/\S*/;
+      window.PLANET = {
+        visitedFromPlanetClient: !!navigator.userAgent.match(userAgentRegex),
+        assetsPrefix: '../',
+      };
+
+      function breadcrumb(stubs) {
+        let container = document.createElement('div');
+        container.classList.add('breadcrumb')
+        let inner = document.createElement('div');
+        inner.classList.add('breadcrumb-inner');
+        container.appendChild(inner);
+        if (!stubs || !stubs.length) {
+          return;
+        }
+
+        const getStubElem = (stub) => {
+          let elem;
+          if (stub.url) {
+            elem = document.createElement('a');
+            elem.href = stub.url;
+          } else {
+            elem = document.createElement('span');
+          }
+          elem.innerText = stub.text;
+          if (stub.classes) {
+            elem.classList.add(...stub.classes);
+          }
+          return elem;
+        };
+
+        const getSeparatorElem = () => {
+          let elem = document.createElement('span');
+          elem.innerText = '›';
+          elem.classList.add("chevron");
+          return elem;
+        }
+
+        inner.append(getStubElem(stubs[0]));
+        inner.append(getSeparatorElem());
+        for (let i = 1; i < stubs.length; i++)  {
+          inner.append(getStubElem(stubs[i]));
+          if (i < stubs.length - 1) {
+            inner.append(getSeparatorElem());
+          }
+        }
+
+        let main = document.querySelector('.wrapper');
+        main.insertAdjacentElement('afterbegin', container);
+      }
+    </script>
+    
+    <link rel="icon" href="../avatar.png" sizes="144x144">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/png">
+    
+    
+<!-- Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="DecafQuest" />
+<meta property="og:site_name" content="&#xA2A;&#xA4D;&#xA30;&#xA2D;&#xA1A;&#xA3F;&#xA70;&#xA24;&#xA28;&#xA30;&#xA70;&#xA27;&#xA3E;&#xA35;&#xA3E;" />
+<meta property="og:description" content="Slides for &#x3C;a href=&#x22;&#x22;&#x3E;Marketplace Discussion" />
+<meta property="article:published_time" content="2022-11-29T11:30:11-06:00" />
+
+  <meta property="og:image" content="https://retroflex.xyz/E2B990EC-7BE7-4165-AA15-2F7B43B792C4/_cover.png" />
+  <meta property="og:image:alt" content="DecafQuest" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="&#xA2A;&#xA4D;&#xA30;&#xA2D;&#xA1A;&#xA3F;&#xA70;&#xA24;&#xA28;&#xA30;&#xA70;&#xA27;&#xA3E;&#xA35;&#xA3E;" />
+<meta name="twitter:title" content="DecafQuest" />
+<meta name="twitter:description" content="Slides for &#x3C;a href=&#x22;&#x22;&#x3E;Marketplace Discussion" />
+
+  <meta name="twitter:image" content="https://retroflex.xyz/E2B990EC-7BE7-4165-AA15-2F7B43B792C4/_cover.png" />
+
+<!-- End Open Graph Tags -->
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    if (!window.PLANET.visitedFromPlanetClient) {
+      if(document.getElementById('audio-container')){
+        document.querySelector('.audio-container').style.display = 'block';
+      }
+      if(document.getElementById('footer')){
+        document.querySelector('#footer').style.display = 'block';
+      }
+      console.log("Current article_type: 0")
+      
+      breadcrumb([
+        { text: "ਪ੍ਰਭਚਿੰਤਨਰੰਧਾਵਾ", url: '../' },
+      ]);
+      
+    } else {
+
+    }
+    const todos = document.querySelectorAll('li:has(input[type="checkbox"])');
+    let i = 1;
+    todos.forEach(item => {
+      item.id = "todo-item-" + i;
+      i++;
+    });
+  });
+</script>
+
+    
+    <meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@nytimesbits" />
+<meta name="twitter:creator" content="@nickbilton" />
+<meta property="og:url" content="retroflex.xyz" />
+<meta property="og:title" content="A Twitter for My Sister" />
+<meta property="twitter:description" content="In the early days, Twitter grew so quickly that it was almost impossible to add new features because engineers spent their time trying to keep the rocket ship from stalling." />
+<meta property="twitter:image" content="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FXnX6tIbCgu.jpeg?alt=media&token=5c448876-ec81-40bd-8295-d1ef7300c34c" />
+  </head>
+  <body>
+    <html>
+  <body> <br><br>
+    <center>
+    <!-- Add a placeholder for the Twitch embed -->
+    <div id="twitch-embed"></div>
+
+    <!-- Load the Twitch embed script -->
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element. -->
+    <script type="text/javascript">
+      var embed = new Twitch.Embed("twitch-embed", {
+        width: 320,
+        height: 200,
+        channel: "prabhchintan",
+        layout: "video",
+        autoplay: true,
+        muted: false,
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["xn--spb.com"]
+      });
+
+      embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
+        var player = embed.getPlayer();
+        player.play();
+      });
+    </script>
+    </center>
+  </body>
+</html>
+    <div class="wrapper">
+      <div class="main">
+      
+
+<h1>DecafQuest</h1>
+<div class="date">Nov 29, 2022 at 11:30:11 AM</div>
+<div class="content">
+  
+  
+  <p>Slides for &lt;a href=&quot;<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/tjFE5PdWveA" title="YouTube Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&quot;&gt;Marketplace Discussion</a><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FgsNdI3y4D0.jpg?alt=media&amp;token=53ee7b6a-182d-4de3-b179-0791dbab3760" alt="" /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2F-N0_KtkiZS.jpeg?alt=media&amp;token=9128f784-c4b9-4f0c-a435-ba986c230848" alt="" /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FM9nQgw2RGw.jpeg?alt=media&amp;token=1423b1d4-1214-411d-a6ad-d408b6fa5544" alt="" /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2F7pON1kjJkE.jpeg?alt=media&amp;token=c2f5c921-27e9-4a33-ba91-5cf41a8da383" alt="" /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2F3__7cjHIfY.jpeg?alt=media&amp;token=cfde9271-d0f4-44c5-b17c-420575bdbc36" alt="" /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2F46eSkYzwuy.jpeg?alt=media&amp;token=9fcc2bf8-7908-499c-a46d-fd229cd4e818" alt="" /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FR_JHWGyeat.jpeg?alt=media&amp;token=e931e503-871e-400c-8996-26aaf2a2deed" alt="" /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FXN7c06yvOt.jpeg?alt=media&amp;token=35afbf54-4653-4b04-8d39-c4d24f9893e9" alt="" /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FR79sxlzDjR.jpeg?alt=media&amp;token=22720a89-cbe3-421d-8459-0a66611aa218" alt="" /></p>
+
+</div>
+
+        <footer id="footer" style="display: none;"><div class="footer-inner">
+        </div></footer>
+      </div>
+    </div>
+    <center><style>
+  .pages-container {
+    display: none;
+  }
+  @media (prefers-color-scheme: light) {
+    /* all your styles for dark mode here */
+}
+</style>
+  <a href="mailto:prab@hey.com">Contact</a> • 
+  <a href="https://retroflex.xyz/subscribe">Subscribe</a> •
+  <a href="https://retroflex.xyz/privacy">Privacy</a>
+  <p>
+   </p>
+    <a href="https://prabhchintan.gumroad.com/l/license">© 2023</a><a href="https://xn--spb.com/"> Retroflex.eth, </a>
+<a href="https://goo.gl/maps/mPSJmQu2Z21paTqN6">Austin, TX 78726</a> 
+<br><br></center>
+  </body>
+</html>

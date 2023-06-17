@@ -7,7 +7,7 @@
         "_cover.png"
       ],
       "cids" : {
-        "_cover.png" : "QmWfufPo2vzxuXYEC1YxNgmWC81Hu2N6Y42ixqWpABfVTj"
+        "_cover.png" : "QmdU6pZrd86kMaq527Yg61KufpNGrtBN5c5QNpKMh6g8Dt"
       },
       "content" : "I recorded a video the other day that I wanted to share:\n\n<center><iframe width=\"320\" height=\"200\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></center>",
       "created" : 708234988.83443904,
@@ -18,7 +18,7 @@
       "id" : "AF9D2B0D-5DA7-4287-8029-A2B663B0D43B",
       "link" : "/ai/",
       "slug" : "ai",
-      "title" : "On India-first AI & Irreducibility"
+      "title" : "On India-first AI, Decolonization, and Irreducibility"
     },
     {
       "articleType" : 0,
@@ -116,5 +116,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708663331.40454602
+  "updated" : 708663408.984483
 }

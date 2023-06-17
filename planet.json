@@ -33,10 +33,10 @@
       "externalLink" : "",
       "hasAudio" : false,
       "hasVideo" : false,
-      "heroImage" : "https://retroflex.xyz/E2B990EC-7BE7-4165-AA15-2F7B43B792C4/_cover.png",
+      "heroImage" : "https://retroflex.xyz/decafquest/_cover.png",
       "id" : "E2B990EC-7BE7-4165-AA15-2F7B43B792C4",
-      "link" : "/E2B990EC-7BE7-4165-AA15-2F7B43B792C4/",
-      "slug" : "",
+      "link" : "/decafquest/",
+      "slug" : "decafquest",
       "title" : "DecafQuest"
     },
     {
@@ -116,5 +116,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708663217.06602395
+  "updated" : 708663269.90707195
 }

@@ -7,9 +7,9 @@
         "_cover.png"
       ],
       "cids" : {
-        "_cover.png" : "QmQrCZw9ay1QZPuAkSFDVsUjUCveTtNbRSPJNpW2nGFbPh"
+        "_cover.png" : "QmcZyZbpLXytr1QbjzCpCrRS9ozVTRAWmGpusQTcwUXb38"
       },
-      "content" : "<iframe width='600' height='600' src='https://www.wolframcloud.com/obj/9d306049-6fdb-4396-9900-d4ce6dd59ad1' frameborder='0'></iframe>",
+      "content" : "<iframe width='600' height='500' src='https://www.wolframcloud.com/obj/9d306049-6fdb-4396-9900-d4ce6dd59ad1' frameborder='0'></iframe>",
       "created" : 708756495.25752604,
       "externalLink" : "",
       "hasAudio" : false,
@@ -135,5 +135,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708812278.19775903
+  "updated" : 708812329.63421404
 }

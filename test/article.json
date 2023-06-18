@@ -1,0 +1,19 @@
+{
+  "articleType" : 0,
+  "attachments" : [
+    "_cover.png"
+  ],
+  "cids" : {
+    "_cover.png" : "QmUeVNCCs7XeGEgyj3CyuvC7Lz9VWpFyPJ8Xu54JoUCaRo"
+  },
+  "content" : "<script crossorigin src=\"https://unpkg.com/wolfram-notebook-embedder@0.3/dist/wolfram-notebook-embedder.min.js\"></script><div id=\"WNE-div-6b3a9935-1230-4959-8f15-50b8ddd82c3c\"></div><script>WolframNotebookEmbedder.embed(\"https://www.wolframcloud.com/obj/fc712957-3622-46b1-8c6a-f59afcf331a6\",document.getElementById(\"WNE-div-6b3a9935-1230-4959-8f15-50b8ddd82c3c\"));</script>",
+  "created" : 708756954.32316804,
+  "externalLink" : "",
+  "hasAudio" : false,
+  "hasVideo" : false,
+  "heroImage" : "https://retroflex.xyz/test/_cover.png",
+  "id" : "024BE2E1-62BE-4037-92A9-298467C806FB",
+  "link" : "/test/",
+  "slug" : "test",
+  "title" : "test"
+}

@@ -18,22 +18,6 @@
     
     
     <item>
-        <title>test</title>
-        <link>https://retroflex.xyz/024BE2E1-62BE-4037-92A9-298467C806FB/</link>
-        <guid>https://retroflex.xyz/024BE2E1-62BE-4037-92A9-298467C806FB/</guid>
-        <pubDate>Sat, 17 Jun 2023 23:55:54 -0500</pubDate>
-        
-        <itunes:image href="https://retroflex.xyz/test/_cover.png" />    
-        
-        
-        <description><![CDATA[
-            <script crossorigin src="https://unpkg.com/wolfram-notebook-embedder@0.3/dist/wolfram-notebook-embedder.min.js"></script>
-<div id="WNE-div-6b3a9935-1230-4959-8f15-50b8ddd82c3c"></div>
-<script>WolframNotebookEmbedder.embed("https://www.wolframcloud.com/obj/fc712957-3622-46b1-8c6a-f59afcf331a6",document.getElementById("WNE-div-6b3a9935-1230-4959-8f15-50b8ddd82c3c"));</script>
-        ]]></description>
-    </item>
-    
-    <item>
         <title>The Black-Scholes Option Model</title>
         <link>https://retroflex.xyz/1C5E86C9-8677-4CC0-BAE9-A2607107F91E/</link>
         <guid>https://retroflex.xyz/1C5E86C9-8677-4CC0-BAE9-A2607107F91E/</guid>

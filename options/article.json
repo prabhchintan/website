@@ -1,0 +1,19 @@
+{
+  "articleType" : 0,
+  "attachments" : [
+    "_cover.png"
+  ],
+  "cids" : {
+    "_cover.png" : "QmTDRR4QWUmNJEv2s2ArhXSqPHJB3HNWwFt94BC9ipkJZq"
+  },
+  "content" : "<iframe width='800' height='400' src='https://www.wolframcloud.com/obj/9d306049-6fdb-4396-9900-d4ce6dd59ad1' frameborder='0'></iframe>",
+  "created" : 708756495.25752604,
+  "externalLink" : "",
+  "hasAudio" : false,
+  "hasVideo" : false,
+  "heroImage" : "https://retroflex.xyz/options/_cover.png",
+  "id" : "1C5E86C9-8677-4CC0-BAE9-A2607107F91E",
+  "link" : "/options/",
+  "slug" : "options",
+  "title" : "The Black-Scholes Option Model"
+}

@@ -1,17 +1,17 @@
 {
   "articleType" : 1,
   "attachments" : [
-    "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg"
+    "_cover.png"
   ],
   "cids" : {
-    "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg" : "QmPQFJxqxcxZyzcbeXQd9z6BMYbNjFsmAtsEshZg2zpuo6"
+    "_cover.png" : "QmcBDzt2DvfiD9oZHcVtLPurzBYTQyPrhgYM7owchrSPx3"
   },
-  "content" : "<center><img width=\"440\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\"><br>",
+  "content" : "tbd",
   "created" : 649542884.61119294,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
-  "heroImage" : "https://retroflex.xyz/about/17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg",
+  "heroImage" : "https://retroflex.xyz/about/_cover.png",
   "id" : "38D323D1-DD63-472A-8AAF-1097E06C8B79",
   "link" : "/about/",
   "slug" : "about",

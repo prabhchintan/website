@@ -82,17 +82,17 @@
     {
       "articleType" : 0,
       "attachments" : [
-        "_cover.png"
+        "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg"
       ],
       "cids" : {
-        "_cover.png" : "QmaxjsPiuAbj3XEzZLRZXMjJpNRbctkae2nB1RgXff8Ghe"
+        "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg" : "QmTYP5aEgkxc6AoW5XGXZCWi4FpXt1fFzFZP94sK7Mmp3V"
       },
-      "content" : "ੴਸਤਿਨਾਮੁਕਰਤਾਪੁਰਖੁਨਿਰਭਉਨਿਰਵੈਰੁਅਕਾਲਮੂਰਤਿਅਜੂਨੀਸੈਭੰਗੁਰਪ੍ਰਸਾਦਿ॥\n\n\nHi, it's Prabhchintan Randhawa from Austin,Texas. I made an open-source <a href=\"https://github.com/prabhchintan/website\">notebook on GitHub</a>. I will add to it gradually. Do subscribe.",
+      "content" : "ੴਸਤਿਨਾਮੁਕਰਤਾਪੁਰਖੁਨਿਰਭਉਨਿਰਵੈਰੁਅਕਾਲਮੂਰਤਿਅਜੂਨੀਸੈਭੰਗੁਰਪ੍ਰਸਾਦਿ॥\n\n<img width=\"740\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\">\n\nHi, it's Prabhchintan Randhawa from Austin,Texas. I made an open-source <a href=\"https://github.com/prabhchintan/website\">notebook on GitHub</a>. I will add to it gradually. Do subscribe.",
       "created" : 649519580.27997696,
       "externalLink" : "",
       "hasAudio" : false,
       "hasVideo" : false,
-      "heroImage" : "https://retroflex.xyz/0/_cover.png",
+      "heroImage" : "https://retroflex.xyz/0/17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg",
       "id" : "2A3A30CE-E1DC-4475-91B9-B5BF0ACCB330",
       "link" : "/0/",
       "slug" : "0",
@@ -116,5 +116,5 @@
   "podcastLanguage" : "en",
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 708663408.984483
+  "updated" : 708747755.53090203
 }

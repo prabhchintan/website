@@ -31,10 +31,10 @@
     {
       "articleType" : 0,
       "attachments" : [
-        "_cover.png"
+
       ],
       "cids" : {
-        "_cover.png" : "QmdU6pZrd86kMaq527Yg61KufpNGrtBN5c5QNpKMh6g8Dt"
+
       },
       "content" : "I recorded a video the other day that I wanted to share:\n\n<center><iframe width=\"320\" height=\"200\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></center>",
       "contentRendered" : "<p>I recorded a video the other day that I wanted to share:</p>\n<center><iframe width=\"320\" height=\"200\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></center>\n",
@@ -106,27 +106,24 @@
     {
       "articleType" : 0,
       "attachments" : [
-        "IMG_0012.jpg"
+
       ],
       "cids" : {
-        "IMG_0012.jpg" : "QmNve33CCEbSjft4rURJZ3To6pAtiKGjQDdjk5Mzgm5hKn"
+
       },
-      "content" : "<img width=\"790\" alt=\"IMG_0012\" src=\"IMG_0012.jpg\">",
-      "contentRendered" : "<img width=\"790\" alt=\"IMG_0012\" src=\"IMG_0012.jpg\">\n",
+      "content" : "q*",
+      "contentRendered" : "<p>q*</p>\n",
       "created" : 658526026.4716,
       "externalLink" : "",
       "hasAudio" : false,
       "hasVideo" : false,
-      "heroImage" : "https://prabhchintan.com/retroflex/IMG_0012.jpg",
-      "heroImageFilename" : "IMG_0012.jpg",
-      "heroImageURL" : "https://prabhchintan.com/retroflex/IMG_0012.jpg",
       "id" : "F63C70DD-D110-4803-B128-652362A09F84",
       "link" : "/retroflex/",
       "slug" : "retroflex",
       "tags" : {
 
       },
-      "title" : "Retroflex.eth"
+      "title" : "Randhawa.eth"
     },
     {
       "articleType" : 0,
@@ -136,8 +133,8 @@
       "cids" : {
         "17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg" : "QmTYP5aEgkxc6AoW5XGXZCWi4FpXt1fFzFZP94sK7Mmp3V"
       },
-      "content" : "ੴਸਤਿਨਾਮੁਕਰਤਾਪੁਰਖੁਨਿਰਭਉਨਿਰਵੈਰੁਅਕਾਲਮੂਰਤਿਅਜੂਨੀਸੈਭੰਗੁਰਪ੍ਰਸਾਦਿ॥\n\n<img width=\"740\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\">\n\nHi, it's Prabhchintan Randhawa from Austin,Texas. I made an open-source <a href=\"https://github.com/prabhchintan/website\">notebook on GitHub</a>. I will add to it gradually. Do subscribe.",
-      "contentRendered" : "<p>ੴਸਤਿਨਾਮੁਕਰਤਾਪੁਰਖੁਨਿਰਭਉਨਿਰਵੈਰੁਅਕਾਲਮੂਰਤਿਅਜੂਨੀਸੈਭੰਗੁਰਪ੍ਰਸਾਦਿ॥</p>\n<img width=\"740\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\">\n<p>Hi, it's Prabhchintan Randhawa from Austin,Texas. I made an open-source <a href=\"https://github.com/prabhchintan/website\">notebook on GitHub</a>. I will add to it gradually. Do subscribe.</p>\n",
+      "content" : "ੴਸਤਿਨਾਮੁਕਰਤਾਪੁਰਖੁਨਿਰਭਉਨਿਰਵੈਰੁਅਕਾਲਮੂਰਤਿਅਜੂਨੀਸੈਭੰਗੁਰਪ੍ਰਸਾਦਿ॥\n\n<img width=\"740\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\">\n\nHi, it's Prabhchintan Randhawa from Austin,Texas. This is an open-source notebook. I will add to it gradually. Do subscribe if you want to hear from me time to time, I will rarely email you.",
+      "contentRendered" : "<p>ੴਸਤਿਨਾਮੁਕਰਤਾਪੁਰਖੁਨਿਰਭਉਨਿਰਵੈਰੁਅਕਾਲਮੂਰਤਿਅਜੂਨੀਸੈਭੰਗੁਰਪ੍ਰਸਾਦਿ॥</p>\n<img width=\"740\" alt=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript\" src=\"17th_century_Mul_Mantar,_Guru_Arjan_handwriting,_Kartarpur_manuscript.jpg\">\n<p>Hi, it's Prabhchintan Randhawa from Austin,Texas. This is an open-source notebook. I will add to it gradually. Do subscribe if you want to hear from me time to time, I will rarely email you.</p>\n",
       "created" : 649519580.279977,
       "externalLink" : "",
       "hasAudio" : false,
@@ -174,5 +171,5 @@
   },
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 722894748.922121
+  "updated" : 722896561.937203
 }

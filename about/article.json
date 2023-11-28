@@ -1,13 +1,13 @@
 {
   "articleType" : 1,
   "attachments" : [
-    "_cover.png"
+
   ],
   "cids" : {
-    "_cover.png" : "QmcBDzt2DvfiD9oZHcVtLPurzBYTQyPrhgYM7owchrSPx3"
+
   },
-  "content" : "tbd",
-  "contentRendered" : "<p>tbd</p>\n",
+  "content" : "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FM9nQgw2RGw.jpeg?alt=media&token=1423b1d4-1214-411d-a6ad-d408b6fa5544)",
+  "contentRendered" : "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FM9nQgw2RGw.jpeg?alt=media&amp;token=1423b1d4-1214-411d-a6ad-d408b6fa5544\" alt=\"\" /></p>\n",
   "created" : 649542884.611193,
   "externalLink" : "",
   "hasAudio" : false,

@@ -149,6 +149,28 @@
 
       },
       "title" : "0 to ੴ"
+    },
+    {
+      "articleType" : 0,
+      "attachments" : [
+
+      ],
+      "cids" : {
+
+      },
+      "content" : "1. God\n2. Big bang\n3. Time, Space, Evolution\n4. Language, Genetics, Archeology\n5. Light, Magnetism, Gravity, Quantum\n6. Design, Art, Aesthetics, Structure, Mind",
+      "contentRendered" : "<ol>\n<li>God</li>\n<li>Big bang</li>\n<li>Time, Space, Evolution</li>\n<li>Language, Genetics, Archeology</li>\n<li>Light, Magnetism, Gravity, Quantum</li>\n<li>Design, Art, Aesthetics, Structure, Mind</li>\n</ol>\n",
+      "created" : -63114052163.54945,
+      "externalLink" : "",
+      "hasAudio" : false,
+      "hasVideo" : false,
+      "id" : "E807C491-69DE-4360-A999-0B799462C61E",
+      "link" : "/E807C491-69DE-4360-A999-0B799462C61E/",
+      "slug" : "",
+      "tags" : {
+
+      },
+      "title" : "Book Chapters"
     }
   ],
   "created" : 692846567.86098,
@@ -171,5 +193,5 @@
   },
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 722897638.536292
+  "updated" : 722900576.314093
 }

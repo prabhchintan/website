@@ -10,14 +10,14 @@
     >
 <channel>
     <title>&#xA2A;&#xA4D;&#xA30;&#xA2D;&#xA1A;&#xA3F;&#xA70;&#xA24;&#xA28;&#xA30;&#xA70;&#xA27;&#xA3E;&#xA35;&#xA3E;</title>
-    <atom:link href="https://retroflex.xyz/podcast.xml" rel="self" type="application/rss+xml" />
-    <link>https://retroflex.xyz/</link>
+    <atom:link href="https://prabhchintan.com/podcast.xml" rel="self" type="application/rss+xml" />
+    <link>https://prabhchintan.com/</link>
     <description><![CDATA[
     
     ]]></description>
     
     
-    <itunes:image href="https://retroflex.xyz/podcastCoverArt.png"/>
+    <itunes:image href="https://prabhchintan.com/podcastCoverArt.png"/>
     
     <language>en</language>
     <itunes:explicit>yes</itunes:explicit>
@@ -26,12 +26,12 @@
     
     <item>
         <title>Documentary: Surinder Kaur</title>
-        <link>https://retroflex.xyz/DA7713D6-B1F7-4F39-A923-95051330BCFB/</link>
-        <guid>https://retroflex.xyz/DA7713D6-B1F7-4F39-A923-95051330BCFB/</guid>
+        <link>https://prabhchintan.com/DA7713D6-B1F7-4F39-A923-95051330BCFB/</link>
+        <guid>https://prabhchintan.com/DA7713D6-B1F7-4F39-A923-95051330BCFB/</guid>
         <pubDate>Sun, 12 Jun 2022 17:01:45 -0500</pubDate>
         
         
-        <enclosure url="https://retroflex.xyz/DA7713D6-B1F7-4F39-A923-95051330BCFB/Documentary Surinder Kaur.mp3" length="46899546" type="audio/mpeg" />
+        <enclosure url="https://prabhchintan.com/DA7713D6-B1F7-4F39-A923-95051330BCFB/Documentary Surinder Kaur.mp3" length="46899546" type="audio/mpeg" />
         <itunes:duration>00:32:34</itunes:duration>
         
         <description><![CDATA[

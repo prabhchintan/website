@@ -1,3 +1,2 @@
 Randhawa.eth
 
-q*

@@ -36,8 +36,8 @@
       "cids" : {
 
       },
-      "content" : "I recorded a video the other day that I wanted to share:\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0?si=yYZwGbWb-LYmUOJI&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
-      "contentRendered" : "<p>I recorded a video the other day that I wanted to share:</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0?si=yYZwGbWb-LYmUOJI&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n",
+      "content" : "I recorded a video the other day that I wanted to share:\n\nhttps://www.youtube.com/watch?v=46Qwg1rn8v0",
+      "contentRendered" : "<p>I recorded a video the other day that I wanted to share:</p>\n<iframe width=\"100%\" style=\"aspect-ratio: 16/9\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube Video\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
       "created" : 708234988.834439,
       "externalLink" : "",
       "hasAudio" : false,
@@ -149,28 +149,6 @@
 
       },
       "title" : "0 to ੴ"
-    },
-    {
-      "articleType" : 0,
-      "attachments" : [
-
-      ],
-      "cids" : {
-
-      },
-      "content" : "1. God\n2. Big bang\n3. Time, Space, Evolution\n4. Language, Genetics, Archeology\n5. Light, Magnetism, Gravity, Quantum\n6. Design, Art, Aesthetics, Structure, Mind",
-      "contentRendered" : "<ol>\n<li>God</li>\n<li>Big bang</li>\n<li>Time, Space, Evolution</li>\n<li>Language, Genetics, Archeology</li>\n<li>Light, Magnetism, Gravity, Quantum</li>\n<li>Design, Art, Aesthetics, Structure, Mind</li>\n</ol>\n",
-      "created" : -63114052163.54945,
-      "externalLink" : "",
-      "hasAudio" : false,
-      "hasVideo" : false,
-      "id" : "E807C491-69DE-4360-A999-0B799462C61E",
-      "link" : "/E807C491-69DE-4360-A999-0B799462C61E/",
-      "slug" : "",
-      "tags" : {
-
-      },
-      "title" : "Book Chapters"
     }
   ],
   "created" : 692846567.86098,
@@ -189,10 +167,9 @@
   "podcastExplicit" : true,
   "podcastLanguage" : "en",
   "tags" : {
-    "123" : "123",
-    "test" : "test"
+
   },
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 722904650.000051
+  "updated" : 722905954.598212
 }

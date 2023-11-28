@@ -6,8 +6,8 @@
   "cids" : {
 
   },
-  "content" : "I recorded a video the other day that I wanted to share:\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0?si=yYZwGbWb-LYmUOJI&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
-  "contentRendered" : "<p>I recorded a video the other day that I wanted to share:</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0?si=yYZwGbWb-LYmUOJI&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n",
+  "content" : "I recorded a video the other day that I wanted to share:\n\nhttps://www.youtube.com/watch?v=46Qwg1rn8v0",
+  "contentRendered" : "<p>I recorded a video the other day that I wanted to share:</p>\n<iframe width=\"100%\" style=\"aspect-ratio: 16/9\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube Video\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
   "created" : 708234988.834439,
   "externalLink" : "",
   "hasAudio" : false,

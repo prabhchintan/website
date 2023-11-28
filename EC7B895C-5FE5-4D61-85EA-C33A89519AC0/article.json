@@ -1,12 +1,13 @@
 {
   "articleType" : 1,
   "attachments" : [
-    "_cover.png"
+
   ],
   "cids" : {
-    "_cover.png" : "QmPyGu7gBeuBnxViGrroXiPKMDcvmk5ND4gNh6gUqrExot"
+
   },
-  "content" : "",
+  "content" : "0. ੴ\n1. God\n2. Big bang, chaos, and order\n3. Time, Space, Life, Evolution\n4. Language, Genetics, Archeology\n5. Light, Magnetism, Gravity, Quantum\n6. Thermodynamics, Complexity, Statistics\n7. Structure, Aesthetics, Art, Design, Intelligence",
+  "contentRendered" : "<ol start=\"0\">\n<li>ੴ</li>\n<li>God</li>\n<li>Big bang, chaos, and order</li>\n<li>Time, Space, Life, Evolution</li>\n<li>Language, Genetics, Archeology</li>\n<li>Light, Magnetism, Gravity, Quantum</li>\n<li>Thermodynamics, Complexity, Statistics</li>\n<li>Structure, Aesthetics, Art, Design, Intelligence</li>\n</ol>\n",
   "created" : 708470510.539913,
   "externalLink" : "",
   "hasAudio" : false,

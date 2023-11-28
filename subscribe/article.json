@@ -7,13 +7,19 @@
     "_cover.png" : "QmQhxG9cr7Hh3zsbp1DV9qzAygyKkNxXrowaBxtS8H33Va"
   },
   "content" : "Following is my Substack. I would appreciate you signing up. I promise to never spam you.\n<br>\n\n<center> <iframe src=\"https://prabhchintan.substack.com/embed\" width=\"320\" height=\"200\" style=\"border:1px solid #EEE; background:white;\" frameborder=\"0\" scrolling=\"no\"></iframe> </center>",
-  "created" : 659124455.18942797,
+  "contentRendered" : "<p>Following is my Substack. I would appreciate you signing up. I promise to never spam you.<br />\n<br></p>\n<center> <iframe src=\"https://prabhchintan.substack.com/embed\" width=\"320\" height=\"200\" style=\"border:1px solid #EEE; background:white;\" frameborder=\"0\" scrolling=\"no\"></iframe> </center>\n",
+  "created" : 659124455.189428,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
   "heroImage" : "https://retroflex.xyz/subscribe/_cover.png",
+  "heroImageFilename" : "_cover.png",
+  "heroImageURL" : "https://retroflex.xyz/subscribe/_cover.png",
   "id" : "861F5FCA-A883-47BB-8A6F-F2209A6B24D1",
   "link" : "/subscribe/",
   "slug" : "subscribe",
+  "tags" : {
+
+  },
   "title" : "Subscribe"
 }

@@ -1,4 +1,23 @@
 {
+  "animation_url" : "https://ipfs.io/ipfs/nil",
+  "attributes" : [
+    {
+      "trait_type" : "title",
+      "value" : "Privacy"
+    },
+    {
+      "trait_type" : "title_sha256",
+      "value" : "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    {
+      "trait_type" : "content_sha256",
+      "value" : "373c9451a4185925a197cc599a4f56d521ee1c89cf391d6bc4ab85d69984376d"
+    },
+    {
+      "trait_type" : "created_at",
+      "value" : "1631644769"
+    }
+  ],
   "description" : "At ਣ, accessible from ਣ.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by ਣ and how we use it. If you have additional questions or require more information about our Privacy...",
   "external_url" : "https://retroflex.xyz/privacy/",
   "image" : "https://ipfs.io/ipfs/Qmd8giVE3yyLaZAD2HYm7y5aBxfqXPsca6UeEzgMZbeSFr",

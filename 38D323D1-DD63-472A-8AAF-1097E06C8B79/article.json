@@ -7,13 +7,19 @@
     "_cover.png" : "QmcBDzt2DvfiD9oZHcVtLPurzBYTQyPrhgYM7owchrSPx3"
   },
   "content" : "tbd",
-  "created" : 649542884.61119294,
+  "contentRendered" : "<p>tbd</p>\n",
+  "created" : 649542884.611193,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
   "heroImage" : "https://retroflex.xyz/about/_cover.png",
+  "heroImageFilename" : "_cover.png",
+  "heroImageURL" : "https://retroflex.xyz/about/_cover.png",
   "id" : "38D323D1-DD63-472A-8AAF-1097E06C8B79",
   "link" : "/about/",
   "slug" : "about",
+  "tags" : {
+
+  },
   "title" : "About"
 }

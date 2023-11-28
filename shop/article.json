@@ -7,13 +7,19 @@
     "_cover.png" : "QmfGFqhdeEbb2rQztkQXJZ8WafZh1SkVTk1krz2JTPF14W"
   },
   "content" : "<h1><a href=\"https://retroflex.xyz/book\">Book</a><p>Merch<p>Domains<p>Consulting",
-  "created" : 658693549.25045705,
+  "contentRendered" : "<h1><a href=\"https://retroflex.xyz/book\">Book</a><p>Merch<p>Domains<p>Consulting\n",
+  "created" : 658693549.250457,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
   "heroImage" : "https://retroflex.xyz/shop/_cover.png",
+  "heroImageFilename" : "_cover.png",
+  "heroImageURL" : "https://retroflex.xyz/shop/_cover.png",
   "id" : "DAD18391-93E3-4689-8465-67F1E44316FB",
   "link" : "/shop/",
   "slug" : "shop",
+  "tags" : {
+
+  },
   "title" : "Shop"
 }

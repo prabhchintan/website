@@ -1,18 +1,24 @@
 {
   "articleType" : 1,
   "attachments" : [
-
+    "_cover.png"
   ],
   "cids" : {
-
+    "_cover.png" : "QmZy4LDNxgjxQKoTLFdxDUVe4PcJ2SdzcjLGVh3eJr31fk"
   },
   "content" : "",
-  "created" : 709746642.78821504,
-  "externalLink" : "https://www.google.com",
+  "created" : 709746642.788215,
+  "externalLink" : "www.google.com",
   "hasAudio" : false,
   "hasVideo" : false,
+  "heroImage" : "https://retroflex.xyz/test/_cover.png",
+  "heroImageFilename" : "_cover.png",
+  "heroImageURL" : "https://retroflex.xyz/test/_cover.png",
   "id" : "ED195189-3684-4D27-A1C5-1AE60E350226",
   "link" : "/test/",
   "slug" : "test",
+  "tags" : {
+
+  },
   "title" : "test"
 }

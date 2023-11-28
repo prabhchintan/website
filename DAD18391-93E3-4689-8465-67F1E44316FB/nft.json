@@ -1,0 +1,26 @@
+{
+  "animation_url" : "https://ipfs.io/ipfs/nil",
+  "attributes" : [
+    {
+      "trait_type" : "title",
+      "value" : "Shop"
+    },
+    {
+      "trait_type" : "title_sha256",
+      "value" : "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb"
+    },
+    {
+      "trait_type" : "content_sha256",
+      "value" : "83095e949c6fff874c0a7aace3ea14ab252bf7f2a2a8be7eb932b056be1c0458"
+    },
+    {
+      "trait_type" : "created_at",
+      "value" : "1637000749"
+    }
+  ],
+  "description" : "Book Merch Domains Consulting",
+  "external_url" : "https://retroflex.xyz/shop/",
+  "image" : "https://ipfs.io/ipfs/QmfGFqhdeEbb2rQztkQXJZ8WafZh1SkVTk1krz2JTPF14W",
+  "mimeType" : "image/png",
+  "name" : "Shop"
+}

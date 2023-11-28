@@ -7,13 +7,19 @@
     "IMG_0012.jpg" : "QmNve33CCEbSjft4rURJZ3To6pAtiKGjQDdjk5Mzgm5hKn"
   },
   "content" : "<img width=\"790\" alt=\"IMG_0012\" src=\"IMG_0012.jpg\">",
-  "created" : 658526026.47160006,
+  "contentRendered" : "<img width=\"790\" alt=\"IMG_0012\" src=\"IMG_0012.jpg\">\n",
+  "created" : 658526026.4716,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
   "heroImage" : "https://retroflex.xyz/retroflex/IMG_0012.jpg",
+  "heroImageFilename" : "IMG_0012.jpg",
+  "heroImageURL" : "https://retroflex.xyz/retroflex/IMG_0012.jpg",
   "id" : "F63C70DD-D110-4803-B128-652362A09F84",
   "link" : "/retroflex/",
   "slug" : "retroflex",
+  "tags" : {
+
+  },
   "title" : "Retroflex.eth"
 }

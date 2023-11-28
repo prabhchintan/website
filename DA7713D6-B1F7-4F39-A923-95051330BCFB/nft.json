@@ -1,0 +1,26 @@
+{
+  "animation_url" : "https://ipfs.io/ipfs/Optional(\"QmSh8UdFN2TpfRfSj2omYaBt9aSdUZqPkE1A1s7ueQyhmr\")",
+  "attributes" : [
+    {
+      "trait_type" : "title",
+      "value" : "Documentary: Surinder Kaur"
+    },
+    {
+      "trait_type" : "title_sha256",
+      "value" : "a98da0aef317ab7bf41ddf97e0b095610938271589c26594b57c01e2a14016e6"
+    },
+    {
+      "trait_type" : "content_sha256",
+      "value" : "4eb3fcac43e89458b8548db2317e4a9ee8c886e6c5c5450a31743991815162cc"
+    },
+    {
+      "trait_type" : "created_at",
+      "value" : "1655071305"
+    }
+  ],
+  "description" : "This is an audio recording of a documentary about Surinder Kaur. It contains a few of her songs I like.",
+  "external_url" : "https://retroflex.xyz/surinderkaur/",
+  "image" : "https://ipfs.io/ipfs/QmYLsiebYyb5ri2z58Zf36NxHu9MkceQzauMAxjrDpzPR6",
+  "mimeType" : "audio/mpeg",
+  "name" : "Documentary: Surinder Kaur"
+}

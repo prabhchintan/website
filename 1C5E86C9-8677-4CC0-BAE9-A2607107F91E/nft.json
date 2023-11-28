@@ -1,0 +1,26 @@
+{
+  "animation_url" : "https://ipfs.io/ipfs/nil",
+  "attributes" : [
+    {
+      "trait_type" : "title",
+      "value" : "The Black-Scholes Option Model"
+    },
+    {
+      "trait_type" : "title_sha256",
+      "value" : "6794787cceea7d40ff3da5c1c73bcfbc8321256c019b2c0a9b7cbdb7265ec908"
+    },
+    {
+      "trait_type" : "content_sha256",
+      "value" : "4c8d20de316962043fb83f7864055550c58046dd64f79ac89e0534e62111a3ab"
+    },
+    {
+      "trait_type" : "created_at",
+      "value" : "1687063695"
+    }
+  ],
+  "description" : "PS: the following text is generated via ChatGPT: Unpacking The Black-Scholes Model: An Intellectual Odyssey in the Realm of Financial Engineering The Black-Scholes model, a cornerstone of modern financial theory, plays a pivotal role in the realm of options pricing. An understand...",
+  "external_url" : "https://retroflex.xyz/options/",
+  "image" : "https://ipfs.io/ipfs/QmUvFuuKUmHM7s4AAhZvgnKofDHSQNAyBEZv2xEu2Cji8L",
+  "mimeType" : "image/webp",
+  "name" : "The Black-Scholes Option Model"
+}

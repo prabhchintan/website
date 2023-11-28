@@ -1,191 +1,146 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta content="True" name="HandheldFriendly">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=auto">
-    <meta name="theme-color" content="#fff" media="(prefers-color-scheme: light)">
-    <meta name="theme-color" content="#1c1c1e" media="(prefers-color-scheme: dark)">
-    <link rel="stylesheet" href="../assets/style.css?sha256=8652e0ae2ea5d797e78ed7272db859e90f2fff894e6096f32b705a09df5e6c60">
-    <link rel="preload" href="../planet.json" as="fetch" type="application/json" crossorigin="anonymous">
-    <link rel="preload" href="../rss.xml" as="fetch" type="application/rss+xml" crossorigin="anonymous">
-    <title>Retroflex.eth</title>
-    <script type="text/javascript" src="../assets/utils.js"></script>
-    <script>
-      let userAgentRegex = /Planet\/\S*/;
-      window.PLANET = {
-        visitedFromPlanetClient: !!navigator.userAgent.match(userAgentRegex),
-        assetsPrefix: '../',
-      };
+<!doctype html>
+<html lang="en">
 
-      function breadcrumb(stubs) {
-        let container = document.createElement('div');
-        container.classList.add('breadcrumb')
-        let inner = document.createElement('div');
-        inner.classList.add('breadcrumb-inner');
-        container.appendChild(inner);
-        if (!stubs || !stubs.length) {
-          return;
-        }
+<head>
+  <meta charset="utf-8">
 
-        const getStubElem = (stub) => {
-          let elem;
-          if (stub.url) {
-            elem = document.createElement('a');
-            elem.href = stub.url;
-          } else {
-            elem = document.createElement('span');
-          }
-          elem.innerText = stub.text;
-          if (stub.classes) {
-            elem.classList.add(...stub.classes);
-          }
-          return elem;
-        };
+  <title>Retroflex.eth</title>
 
-        const getSeparatorElem = () => {
-          let elem = document.createElement('span');
-          elem.innerText = '›';
-          elem.classList.add("chevron");
-          return elem;
-        }
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        inner.append(getStubElem(stubs[0]));
-        inner.append(getSeparatorElem());
-        for (let i = 1; i < stubs.length; i++)  {
-          inner.append(getStubElem(stubs[i]));
-          if (i < stubs.length - 1) {
-            inner.append(getSeparatorElem());
-          }
-        }
+  
+  <link rel="apple-touch-icon" href="../avatar.png" />
+  <link rel="shortcut icon" href="../favicon.ico" />
+  
 
-        let main = document.querySelector('.wrapper');
-        main.insertAdjacentElement('afterbegin', container);
-      }
-    </script>
+  <link rel="stylesheet" href="../assets/normalize.css">
+  <link rel="stylesheet" href="../assets/style.css?sha256=d0e4c5d4f7296a5c2cadf1a57be0b8d87373ce7024e00ce3ac6c627ca09149cd">
+
+  <meta name="theme-color" content="#f4f1ec">
+  <script src="../assets/sepia.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    let userAgentRegex = /Planet\/\S*/;
+    window.PLANET = {
+      visitedFromPlanetClient: !!navigator.userAgent.match(userAgentRegex),
+      assetsPrefix: '../',
+    };
+
+    document.addEventListener('DOMContentLoaded', () => {
     
-    <link rel="icon" href="../avatar.png" sizes="144x144">
-    <link rel="shortcut icon" href="../favicon.ico" type="image/png">
-    
-    
-<!-- Open Graph Tags -->
-<meta property="og:type" content="article" />
-<meta property="og:title" content="Retroflex.eth" />
-<meta property="og:site_name" content="&#xA2A;&#xA4D;&#xA30;&#xA2D;&#xA1A;&#xA3F;&#xA70;&#xA24;&#xA28;&#xA30;&#xA70;&#xA27;&#xA3E;&#xA35;&#xA3E;" />
-<meta property="og:description" content="" />
-<meta property="article:published_time" content="2021-11-13T13:53:46-06:00" />
+if (window.PLANET.visitedFromPlanetClient) {
+  let aside = document.getElementById("aside-container");
+  if (aside) {
+    aside.style.display = "none";
+  }
+  let main = document.getElementById("main-container");
+  if (main) {
+    main.style.borderRight = "none";
+    main.style.borderBottom = "none";
+    main.style.marginRight = "0";
+  }
+}
 
-  <meta property="og:image" content="https://retroflex.xyz/retroflex/IMG_0012.jpg" />
-  <meta property="og:image:alt" content="Retroflex.eth" />
+const todos = document.querySelectorAll('li:has(input[type="checkbox"])');
+let i = 1;
+todos.forEach(item => {
+  item.id = "todo-item-" + i;
+  i++;
+});
 
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="&#xA2A;&#xA4D;&#xA30;&#xA2D;&#xA1A;&#xA3F;&#xA70;&#xA24;&#xA28;&#xA30;&#xA70;&#xA27;&#xA3E;&#xA35;&#xA3E;" />
-<meta name="twitter:title" content="Retroflex.eth" />
-<meta name="twitter:description" content="" />
+const items = document.querySelectorAll('.item');
+const item = items[0];
+if (item) {
+  decorateItem(item);
+  // set time every 60 seconds
+  setInterval(() => {
+    setTime(item);
+  }, 60000);
+}
 
-  <meta name="twitter:image" content="https://retroflex.xyz/retroflex/IMG_0012.jpg" />
-
-<!-- End Open Graph Tags -->
-
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    if (!window.PLANET.visitedFromPlanetClient) {
-      if(document.getElementById('audio-container')){
-        document.querySelector('.audio-container').style.display = 'block';
-      }
-      if(document.getElementById('footer')){
-        document.querySelector('#footer').style.display = 'block';
-      }
-      console.log("Current article_type: 0")
-      
-      breadcrumb([
-        { text: "ਪ੍ਰਭਚਿੰਤਨਰੰਧਾਵਾ", url: '../' },
-      ]);
-      
-    } else {
-
-    }
-    const todos = document.querySelectorAll('li:has(input[type="checkbox"])');
-    let i = 1;
-    todos.forEach(item => {
-      item.id = "todo-item-" + i;
-      i++;
     });
-  });
-</script>
+  </script>
+</head>
+
+<body>
+  <div id="wrapper">
+  <div id="modal" onclick="dismissModal()">
+    <img id="modal-img" />
+  </div>
+  <div id="container">
+    <div id="main-container">
+      
+<div id="breadcrumb">
+    <img src="../avatar.png" class="breadcrumb-avatar" />
+    <div class="breadcrumb-title"><a href="../index.html" class="site-title">&#xA2A;&#xA4D;&#xA30;&#xA2D;&#xA1A;&#xA3F;&#xA70;&#xA24;&#xA28;&#xA30;&#xA70;&#xA27;&#xA3E;&#xA35;&#xA3E;</a></div>
+</div>
+<div class="item"
+     data-item-link="../F63C70DD-D110-4803-B128-652362A09F84/"
+     data-article-id="F63C70DD-D110-4803-B128-652362A09F84"
+     data-article-slug="retroflex"
+     data-article-created="1636833226.4716"
+     data-attachments="[&#34;IMG_0012.jpg&#34;,]"
+     data-video-filename=""
+     data-audio-filename=""
+     data-hero-image-filename="IMG_0012.jpg"
+     data-title-length="13"
+     data-content-length="51"
+     data-page-type="blog"
+>
+  <div class="time-box">
+    <div class="dot"></div>
+    <div class="time">&nbsp;</div>
+  </div>
+  <!-- box for HTML content -->
+  
+  <div class="title-box">
+    Retroflex.eth
+  </div>
+  
+  
+  <div class="text-box content" id="main-content">
+    
+    <img width="790" alt="IMG_0012" src="IMG_0012.jpg">
 
     
-    <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@nytimesbits" />
-<meta name="twitter:creator" content="@nickbilton" />
-<meta property="og:url" content="retroflex.xyz" />
-<meta property="og:title" content="A Twitter for My Sister" />
-<meta property="twitter:description" content="In the early days, Twitter grew so quickly that it was almost impossible to add new features because engineers spent their time trying to keep the rocket ship from stalling." />
-<meta property="twitter:image" content="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FXnX6tIbCgu.jpeg?alt=media&token=5c448876-ec81-40bd-8295-d1ef7300c34c" />
-  </head>
-  <body>
-    <html>
-  <body> <br><br>
-    <center>
-    <!-- Add a placeholder for the Twitch embed -->
-    <div id="twitch-embed"></div>
-
-    <!-- Load the Twitch embed script -->
-    <script src="https://embed.twitch.tv/embed/v1.js"></script>
-
-    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element. -->
-    <script type="text/javascript">
-      var embed = new Twitch.Embed("twitch-embed", {
-        width: 320,
-        height: 180,
-        channel: "prabhchintan",
-        layout: "video",
-        autoplay: true,
-        muted: false,
-        // Only needed if this page is going to be embedded on other websites
-        parent: ["xn--spb.com"]
-      });
-
-      embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
-        var player = embed.getPlayer();
-        player.play();
-      });
-    </script>
-    </center>
-  </body>
-</html>
-    <div class="wrapper">
-      <div class="main">
-      
-
-<h1>Retroflex.eth</h1>
-<div class="date">Nov 13, 2021 at 1:53:46 PM</div>
-<div class="content">
+  </div>
   
   
-  <img width="790" alt="IMG_0012" src="IMG_0012.jpg">
-
 </div>
 
-        <footer id="footer" style="display: none;"><div class="footer-inner">
-        </div></footer>
-      </div>
-    </div>
-    <center><style>
-  .pages-container {
-    display: none;
-  }
-  @media (prefers-color-scheme: light) {
-    /* all your styles for dark mode here */
+<style type="text/css">
+.item {
+  margin-left: 7px;
 }
 </style>
-  <a href="mailto:prab@hey.com">Contact</a> • 
-  <a href="https://retroflex.xyz/subscribe">Subscribe</a> •
-  <a href="https://retroflex.xyz/privacy">Privacy</a>
-  <p>
-   </p>
-    <a href="https://prabhchintan.gumroad.com/l/license">© 2023</a><a href="https://xn--spb.com/"> Retroflex.eth, </a>
-<a href="https://goo.gl/maps/mPSJmQu2Z21paTqN6">Austin, TX 78726</a> 
-<br><br></center>
-  </body>
+
+    </div>
+    <div id="aside-container">
+      
+      <div class="nav">
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../index.html" class="nav-link">Home</a>
+        </div>
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../about/" class="nav-link">About</a>
+        </div>
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../shop/" class="nav-link">Shop</a>
+        </div>
+        
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../archive.html" class="nav-link">Archive</a>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  </div>
+</body>
 </html>

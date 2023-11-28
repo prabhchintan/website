@@ -7,13 +7,19 @@
     "_cover.png" : "QmdU6pZrd86kMaq527Yg61KufpNGrtBN5c5QNpKMh6g8Dt"
   },
   "content" : "I recorded a video the other day that I wanted to share:\n\n<center><iframe width=\"320\" height=\"200\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></center>",
-  "created" : 708234988.83443904,
+  "contentRendered" : "<p>I recorded a video the other day that I wanted to share:</p>\n<center><iframe width=\"320\" height=\"200\" src=\"https://www.youtube.com/embed/46Qwg1rn8v0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></center>\n",
+  "created" : 708234988.834439,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
   "heroImage" : "https://retroflex.xyz/ai/_cover.png",
+  "heroImageFilename" : "_cover.png",
+  "heroImageURL" : "https://retroflex.xyz/ai/_cover.png",
   "id" : "AF9D2B0D-5DA7-4287-8029-A2B663B0D43B",
   "link" : "/ai/",
   "slug" : "ai",
+  "tags" : {
+
+  },
   "title" : "On India-first AI, Decolonization, and Irreducibility"
 }

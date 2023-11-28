@@ -1,0 +1,26 @@
+{
+  "animation_url" : "https://ipfs.io/ipfs/nil",
+  "attributes" : [
+    {
+      "trait_type" : "title",
+      "value" : "Retroflex.eth"
+    },
+    {
+      "trait_type" : "title_sha256",
+      "value" : "2f8deee71e277ea0b18590d26e3066aa27b4765a0aa3fdc8034afe8361402307"
+    },
+    {
+      "trait_type" : "content_sha256",
+      "value" : "6b1d6134b6bb3f0a4df12667bacb05d506a918de0607de2dd5d61c81b1dca636"
+    },
+    {
+      "trait_type" : "created_at",
+      "value" : "1636833226"
+    }
+  ],
+  "description" : "",
+  "external_url" : "https://retroflex.xyz/retroflex/",
+  "image" : "https://ipfs.io/ipfs/QmNve33CCEbSjft4rURJZ3To6pAtiKGjQDdjk5Mzgm5hKn",
+  "mimeType" : "image/jpeg",
+  "name" : "Retroflex.eth"
+}

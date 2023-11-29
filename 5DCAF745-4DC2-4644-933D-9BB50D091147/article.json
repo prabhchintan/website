@@ -6,8 +6,8 @@
   "cids" : {
 
   },
-  "content" : "Every day is a new day.",
-  "contentRendered" : "<p>Every day is a new day.</p>\n",
+  "content" : "天天向上\n\nMake progress daily",
+  "contentRendered" : "<p>天天向上</p>\n<p>Make progress daily</p>\n",
   "created" : 722992009.402747,
   "externalLink" : "",
   "hasAudio" : false,

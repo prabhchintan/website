@@ -6,8 +6,8 @@
   "cids" : {
 
   },
-  "content" : "天天向上\n\nMake progress daily",
-  "contentRendered" : "<p>天天向上</p>\n<p>Make progress daily</p>\n",
+  "content" : "Tiāntiān xiàng shàng.\n\nMake progress daily.",
+  "contentRendered" : "<p>Tiāntiān xiàng shàng.</p>\n<p>Make progress daily.</p>\n",
   "created" : 722992009.402747,
   "externalLink" : "",
   "hasAudio" : false,
@@ -18,5 +18,5 @@
   "tags" : {
 
   },
-  "title" : "It's a new day"
+  "title" : "天天向上"
 }

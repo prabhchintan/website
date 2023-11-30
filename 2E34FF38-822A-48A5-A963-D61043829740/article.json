@@ -1,17 +1,20 @@
 {
   "articleType" : 0,
   "attachments" : [
-
+    "a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.jpg"
   ],
   "cids" : {
-
+    "a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.jpg" : "QmdVhNfqntcfPptj2ZjinRaYw2tXgNJcNkWTC1x6duxX3S"
   },
-  "content" : "![](https://www.wolframcloud.com/obj/online-courses/certificates/wtc-2023-wolfram-tools-for-ai/a00f61be-1c17-4394-aff6-ebc2690a7e8b/a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.png)",
-  "contentRendered" : "<p><img src=\"https://www.wolframcloud.com/obj/online-courses/certificates/wtc-2023-wolfram-tools-for-ai/a00f61be-1c17-4394-aff6-ebc2690a7e8b/a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.png\" alt=\"\" /></p>\n",
+  "content" : "<img width=\"4389\" alt=\"a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance\" src=\"a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.jpg\">",
+  "contentRendered" : "<img width=\"4389\" alt=\"a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance\" src=\"a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.jpg\">\n",
   "created" : 720468045.386252,
   "externalLink" : "",
   "hasAudio" : false,
   "hasVideo" : false,
+  "heroImage" : "https://prabhchintan.com/2E34FF38-822A-48A5-A963-D61043829740/a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.jpg",
+  "heroImageFilename" : "a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.jpg",
+  "heroImageURL" : "https://prabhchintan.com/2E34FF38-822A-48A5-A963-D61043829740/a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.jpg",
   "id" : "2E34FF38-822A-48A5-A963-D61043829740",
   "link" : "/2E34FF38-822A-48A5-A963-D61043829740/",
   "slug" : "",

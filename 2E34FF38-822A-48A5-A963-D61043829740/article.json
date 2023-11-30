@@ -1,0 +1,24 @@
+{
+  "articleType" : 0,
+  "attachments" : [
+
+  ],
+  "cids" : {
+
+  },
+  "content" : "![](https://www.wolframcloud.com/obj/online-courses/certificates/wtc-2023-wolfram-tools-for-ai/a00f61be-1c17-4394-aff6-ebc2690a7e8b/a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.png)",
+  "contentRendered" : "<p><img src=\"https://www.wolframcloud.com/obj/online-courses/certificates/wtc-2023-wolfram-tools-for-ai/a00f61be-1c17-4394-aff6-ebc2690a7e8b/a00f61be-1c17-4394-aff6-ebc2690a7e8b_attendance.png\" alt=\"\" /></p>\n",
+  "created" : 720468045.386252,
+  "externalLink" : "",
+  "hasAudio" : false,
+  "hasVideo" : false,
+  "id" : "2E34FF38-822A-48A5-A963-D61043829740",
+  "link" : "/2E34FF38-822A-48A5-A963-D61043829740/",
+  "slug" : "",
+  "tags" : {
+    "ai" : "AI",
+    "certificate" : "Certificate",
+    "wolfram" : "Wolfram"
+  },
+  "title" : "Wolfram University"
+}

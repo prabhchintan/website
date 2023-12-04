@@ -4,6 +4,31 @@
     {
       "articleType" : 0,
       "attachments" : [
+        "rbGhilEHCALICeq7JlJFY.png"
+      ],
+      "cids" : {
+        "rbGhilEHCALICeq7JlJFY.png" : "QmVHBYWH6q26NDcA8b2B1THaTWsGrYngDdZ9JH7uHCGbGC"
+      },
+      "content" : "<img width=\"896\" alt=\"rbGhilEHCALICeq7JlJFY\" src=\"rbGhilEHCALICeq7JlJFY.png\">\nStephen Wolfram, 1977",
+      "contentRendered" : "<img width=\"896\" alt=\"rbGhilEHCALICeq7JlJFY\" src=\"rbGhilEHCALICeq7JlJFY.png\">\nStephen Wolfram, 1977\n",
+      "created" : 723342188.086122,
+      "externalLink" : "",
+      "hasAudio" : false,
+      "hasVideo" : false,
+      "heroImage" : "https://prabhchintan.com/0F26D4E9-2A05-4D8B-A98C-B1674A4AF410/rbGhilEHCALICeq7JlJFY.png",
+      "heroImageFilename" : "rbGhilEHCALICeq7JlJFY.png",
+      "heroImageURL" : "https://prabhchintan.com/0F26D4E9-2A05-4D8B-A98C-B1674A4AF410/rbGhilEHCALICeq7JlJFY.png",
+      "id" : "0F26D4E9-2A05-4D8B-A98C-B1674A4AF410",
+      "link" : "/0F26D4E9-2A05-4D8B-A98C-B1674A4AF410/",
+      "slug" : "",
+      "tags" : {
+
+      },
+      "title" : "Scale"
+    },
+    {
+      "articleType" : 0,
+      "attachments" : [
 
       ],
       "cids" : {
@@ -244,5 +269,5 @@
   },
   "telegramUsername" : "",
   "twitterUsername" : "prabhchintan",
-  "updated" : 723329249.60115
+  "updated" : 723342308.680961
 }

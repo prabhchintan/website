@@ -2,7 +2,6 @@ Crypto: Is It Really Worse Than A Philosophy Ponzi?
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FgsNdI3y4D0.jpg?alt=media&token=53ee7b6a-182d-4de3-b179-0791dbab3760)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2F-N0_KtkiZS.jpeg?alt=media&token=9128f784-c4b9-4f0c-a435-ba986c230848)
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2FM9nQgw2RGw.jpeg?alt=media&token=1423b1d4-1214-411d-a6ad-d408b6fa5544)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2F7pON1kjJkE.jpeg?alt=media&token=c2f5c921-27e9-4a33-ba91-5cf41a8da383)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2F3__7cjHIfY.jpeg?alt=media&token=cfde9271-d0f4-44c5-b17c-420575bdbc36)
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fprabhchintan%2F46eSkYzwuy.jpeg?alt=media&token=9fcc2bf8-7908-499c-a46d-fd229cd4e818)

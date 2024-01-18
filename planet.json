@@ -34,28 +34,6 @@
       "cids" : {
 
       },
-      "content" : "Watching the Tesla Cybertruck event today:\n\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"><p lang=\"en\" dir=\"ltr\">Cybertruck Delivery Event <a href=\"https://t.co/rWd111HvHc\">https://t.co/rWd111HvHc</a></p>&mdash; Tesla (@Tesla) <a href=\"https://twitter.com/Tesla/status/1729954264540156295?ref_src=twsrc%5Etfw\">November 29, 2023</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-      "contentRendered" : "<p>Watching the Tesla Cybertruck event today:</p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\"><p lang=\"en\" dir=\"ltr\">Cybertruck Delivery Event <a href=\"https://t.co/rWd111HvHc\">https://t.co/rWd111HvHc</a></p>&mdash; Tesla (@Tesla) <a href=\"https://twitter.com/Tesla/status/1729954264540156295?ref_src=twsrc%5Etfw\">November 29, 2023</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-      "created" : 723067942.781658,
-      "externalLink" : "",
-      "hasAudio" : false,
-      "hasVideo" : false,
-      "id" : "746A7D0D-AD96-4CC8-B287-26A4EF50F4D3",
-      "link" : "/746A7D0D-AD96-4CC8-B287-26A4EF50F4D3/",
-      "slug" : "",
-      "tags" : {
-
-      },
-      "title" : "Tesla Cybertruck"
-    },
-    {
-      "articleType" : 0,
-      "attachments" : [
-
-      ],
-      "cids" : {
-
-      },
       "content" : "Tiāntiān xiàng shàng.\n\nMake progress daily.",
       "contentRendered" : "<p>Tiāntiān xiàng shàng.</p>\n<p>Make progress daily.</p>\n",
       "created" : 722992009.402747,
@@ -186,11 +164,9 @@
   "podcastExplicit" : true,
   "podcastLanguage" : "en",
   "tags" : {
-    "ai" : "AI",
-    "certificate" : "Certificate",
-    "wolfram" : "Wolfram"
+
   },
   "telegramUsername" : "",
   "twitterUsername" : "Randhawa__inc",
-  "updated" : 727300462.261262
+  "updated" : 727300630.379711
 }

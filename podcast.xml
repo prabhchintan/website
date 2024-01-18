@@ -17,8 +17,6 @@
     ]]></description>
     
     
-    <itunes:image href="https://randhawa.inc/podcastCoverArt.png"/>
-    
     <language>en</language>
     <itunes:explicit>yes</itunes:explicit>
     
@@ -31,8 +29,8 @@
         <pubDate>Sun, 12 Jun 2022 17:01:45 -0500</pubDate>
         
         
-        <enclosure url="https://randhawa.inc/DA7713D6-B1F7-4F39-A923-95051330BCFB/Documentary Surinder Kaur.mp3" length="46899546" type="audio/mpeg" />
-        <itunes:duration>00:32:34</itunes:duration>
+        <enclosure url="https://randhawa.inc/DA7713D6-B1F7-4F39-A923-95051330BCFB/Documentary Surinder Kaur.mp3" length="" type="audio/mpeg" />
+        <itunes:duration>00:00:00</itunes:duration>
         
         <description><![CDATA[
             <p>This is an audio recording of a documentary about Surinder Kaur. It contains a few of her songs I like.</p>

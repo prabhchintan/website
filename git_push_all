@@ -1,0 +1,9 @@
+#!/bin/bash
+
+msg=${*:-'automated upload'}
+
+git add .
+git commit -m "$msg"
+git push origin HEAD:master
+
+exit 0

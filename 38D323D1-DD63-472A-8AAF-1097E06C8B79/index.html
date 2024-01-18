@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>About</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="apple-touch-icon" href="../avatar.png" />
+  <link rel="shortcut icon" href="../favicon.ico" />
+  
+
+  <link rel="stylesheet" href="../assets/normalize.css">
+  <link rel="stylesheet" href="../assets/style.css?sha256=2da71fdb9096bf6fe8c7a567ec2c6213a7f2974495d4208840033ef50e4338fc">
+
+  <meta name="theme-color" content="#f4f1ec">
+  <script src="../assets/sepia.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    let userAgentRegex = /Planet\/\S*/;
+    window.PLANET = {
+      visitedFromPlanetClient: !!navigator.userAgent.match(userAgentRegex),
+      assetsPrefix: '../',
+    };
+
+    document.addEventListener('DOMContentLoaded', () => {
+    
+if (window.PLANET.visitedFromPlanetClient) {
+  let aside = document.getElementById("aside-container");
+  if (aside) {
+    aside.style.display = "none";
+  }
+  let main = document.getElementById("main-container");
+  if (main) {
+    main.style.borderRight = "none";
+    main.style.borderBottom = "none";
+    main.style.marginRight = "0";
+  }
+}
+
+const todos = document.querySelectorAll('li:has(input[type="checkbox"])');
+let i = 1;
+todos.forEach(item => {
+  item.id = "todo-item-" + i;
+  i++;
+});
+
+const items = document.querySelectorAll('.item');
+const item = items[0];
+if (item) {
+  decorateItem(item);
+  // set time every 60 seconds
+  setInterval(() => {
+    setTime(item);
+  }, 60000);
+}
+
+    });
+  </script>
+</head>
+
+<body>
+  <div id="wrapper">
+  <div id="modal" onclick="dismissModal()">
+    <img id="modal-img" />
+  </div>
+  <div id="container">
+    <div id="main-container">
+      
+<div id="breadcrumb">
+    <img src="../avatar.png" class="breadcrumb-avatar" />
+    <div class="breadcrumb-title"><a href="../index.html" class="site-title">Randhawa Inc.</a></div>
+</div>
+<div class="item"
+     data-item-link="../38D323D1-DD63-472A-8AAF-1097E06C8B79/"
+     data-article-id="38D323D1-DD63-472A-8AAF-1097E06C8B79"
+     data-article-slug="about"
+     data-article-created="1627850084.611193"
+     data-attachments="[]"
+     data-video-filename=""
+     data-audio-filename=""
+     data-hero-image-filename="_cover.png"
+     data-title-length="5"
+     data-content-length="620"
+     data-page-type="blog"
+>
+  <div class="time-box">
+    <div class="dot"></div>
+    <div class="time">&nbsp;</div>
+  </div>
+  <!-- box for HTML content -->
+  
+  <div class="title-box">
+    About
+  </div>
+  
+  
+  <div class="text-box content" id="main-content">
+    
+    <p>Hi, I'm Prabhchintan Randhawa. I was born and raised in Punjab, India and currently live in Austin, Texas. I run a bootstrapped digital asset custodian startup selling engineering, technical consulting, Ethereum staking, domain brokerage, and product management services. Previously I've worked at companies like Shell and Apple for roughly a decade. I like to make music in my free time. Following is my Twitter feed:</p>
+<p><a class="twitter-timeline" href="https://twitter.com/prabhchintan?ref_src=twsrc%5Etfw">Tweets by prabhchintan</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+    
+  </div>
+  
+  
+</div>
+
+<style type="text/css">
+.item {
+  margin-left: 7px;
+}
+</style>
+
+    </div>
+    <div id="aside-container">
+      
+      <div class="nav">
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../index.html" class="nav-link">Home</a>
+        </div>
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../about/" class="nav-link current">About</a>
+        </div>
+        
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../tags.html" class="nav-link">Tags</a>
+        </div>
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../archive.html" class="nav-link">Archive</a>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  </div>
+</body>
+</html>

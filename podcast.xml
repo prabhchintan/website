@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    >
+<channel>
+    <title>Randhawa Inc.</title>
+    <atom:link href="https://randhawa.inc/podcast.xml" rel="self" type="application/rss+xml" />
+    <link>https://randhawa.inc/</link>
+    <description><![CDATA[
+    
+    ]]></description>
+    
+    
+    <itunes:image href="https://randhawa.inc/podcastCoverArt.png"/>
+    
+    <language>en</language>
+    <itunes:explicit>yes</itunes:explicit>
+    
+    
+    
+    <item>
+        <title>Documentary: Surinder Kaur</title>
+        <link>https://randhawa.inc/DA7713D6-B1F7-4F39-A923-95051330BCFB/</link>
+        <guid>https://randhawa.inc/DA7713D6-B1F7-4F39-A923-95051330BCFB/</guid>
+        <pubDate>Sun, 12 Jun 2022 17:01:45 -0500</pubDate>
+        
+        
+        <enclosure url="https://randhawa.inc/DA7713D6-B1F7-4F39-A923-95051330BCFB/Documentary Surinder Kaur.mp3" length="46899546" type="audio/mpeg" />
+        <itunes:duration>00:32:34</itunes:duration>
+        
+        <description><![CDATA[
+            <p>This is an audio recording of a documentary about Surinder Kaur. It contains a few of her songs I like.</p>
+        ]]></description>
+    </item>
+    
+</channel>
+</rss>

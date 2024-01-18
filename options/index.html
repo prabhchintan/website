@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>The Black-Scholes Option Model</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="apple-touch-icon" href="../avatar.png" />
+  <link rel="shortcut icon" href="../favicon.ico" />
+  
+
+  <link rel="stylesheet" href="../assets/normalize.css">
+  <link rel="stylesheet" href="../assets/style.css?sha256=2da71fdb9096bf6fe8c7a567ec2c6213a7f2974495d4208840033ef50e4338fc">
+
+  <meta name="theme-color" content="#f4f1ec">
+  <script src="../assets/sepia.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    let userAgentRegex = /Planet\/\S*/;
+    window.PLANET = {
+      visitedFromPlanetClient: !!navigator.userAgent.match(userAgentRegex),
+      assetsPrefix: '../',
+    };
+
+    document.addEventListener('DOMContentLoaded', () => {
+    
+if (window.PLANET.visitedFromPlanetClient) {
+  let aside = document.getElementById("aside-container");
+  if (aside) {
+    aside.style.display = "none";
+  }
+  let main = document.getElementById("main-container");
+  if (main) {
+    main.style.borderRight = "none";
+    main.style.borderBottom = "none";
+    main.style.marginRight = "0";
+  }
+}
+
+const todos = document.querySelectorAll('li:has(input[type="checkbox"])');
+let i = 1;
+todos.forEach(item => {
+  item.id = "todo-item-" + i;
+  i++;
+});
+
+const items = document.querySelectorAll('.item');
+const item = items[0];
+if (item) {
+  decorateItem(item);
+  // set time every 60 seconds
+  setInterval(() => {
+    setTime(item);
+  }, 60000);
+}
+
+    });
+  </script>
+</head>
+
+<body>
+  <div id="wrapper">
+  <div id="modal" onclick="dismissModal()">
+    <img id="modal-img" />
+  </div>
+  <div id="container">
+    <div id="main-container">
+      
+<div id="breadcrumb">
+    <img src="../avatar.png" class="breadcrumb-avatar" />
+    <div class="breadcrumb-title"><a href="../index.html" class="site-title">Randhawa Inc.</a></div>
+</div>
+<div class="item"
+     data-item-link="../1C5E86C9-8677-4CC0-BAE9-A2607107F91E/"
+     data-article-id="1C5E86C9-8677-4CC0-BAE9-A2607107F91E"
+     data-article-slug="options"
+     data-article-created="1687063695.257526"
+     data-attachments="[&#34;14e_30inno_merton-scholes-black_640x250-1497809400.jpeg&#34;,&#34;main-qimg-3a9ff4c87631073d697a2ab697f69a54.webp&#34;,]"
+     data-video-filename=""
+     data-audio-filename=""
+     data-hero-image-filename="14e_30inno_merton-scholes-black_640x250-1497809400.jpeg"
+     data-title-length="30"
+     data-content-length="6574"
+     data-page-type="blog"
+>
+  <div class="time-box">
+    <div class="dot"></div>
+    <div class="time">&nbsp;</div>
+  </div>
+  <!-- box for HTML content -->
+  
+  <div class="title-box">
+    The Black-Scholes Option Model
+  </div>
+  
+  
+  <div class="text-box content" id="main-content">
+    
+    <center><iframe width='600' height='500' src='https://www.wolframcloud.com/obj/9d306049-6fdb-4396-9900-d4ce6dd59ad1' frameborder='0'></iframe><br>
+<img width="320" alt="14e_30inno_merton-scholes-black_640x250-1497809400" src="14e_30inno_merton-scholes-black_640x250-1497809400.jpeg">
+<img width="301" alt="main-qimg-3a9ff4c87631073d697a2ab697f69a54" src="main-qimg-3a9ff4c87631073d697a2ab697f69a54.webp">
+</center>
+<p><i>PS: the following text is generated via ChatGPT:</i></p>
+<h1>Unpacking The Black-Scholes Model: An Intellectual Odyssey in the Realm of Financial Engineering</h1>
+<p>The Black-Scholes model, a cornerstone of modern financial theory, plays a pivotal role in the realm of options pricing. An understanding of this model not only casts light on the complex dynamics of financial markets, but also evokes an intricate web of intellectual endeavor that extends beyond the domain of finance. It represents the culmination of centuries of mathematical and scientific progress, embodying a rich tapestry of theoretical constructs from physics, mathematics, and economics. Nevertheless, despite its universal acclaim and widespread application, the model is not without its detractors, and its perceived blind spots have engendered a plethora of criticisms.</p>
+<h2>The Genesis of The Black-Scholes Model</h2>
+<p>The Black-Scholes model's development is rooted in the scientific revolution of the 17th century. Its foundation lies in the framework of probability theory, which was formally introduced by Blaise Pascal and Pierre de Fermat during this era. This seminal work was subsequently extended by luminaries such as Jacob Bernoulli, whose law of large numbers provided the mathematical rigor for the concept of expected value, a critical component of option pricing.</p>
+<p>The introduction of stochastic processes, specifically the Wiener process (also known as Brownian motion) by Norbert Wiener in the early 20th century, further paved the way for the development of the Black-Scholes model. This mathematical construct, inspired by the seemingly random motion of pollen particles suspended in liquid, was originally employed to model physical phenomena. However, its properties, including continuous paths and independent increments, proved apt for describing the erratic fluctuations of financial markets.</p>
+<h2>The Birth and Formalization of the Black-Scholes Model</h2>
+<p>The actual birth of the Black-Scholes model was a momentous convergence of scientific and economic insight. Its parents, economists Fischer Black and Myron Scholes, in collaboration with Robert Merton, sought to devise a formula to calculate the fair price of an option contract. Grounded in the efficient market hypothesis, which postulates that financial markets perfectly reflect all available information, the model was an innovative amalgamation of the previously separate fields of financial economics and applied mathematics.</p>
+<p>The Black-Scholes model's theoretical underpinning is the Black-Scholes equation, a partial differential equation derived from the stochastic differential equation describing the evolution of a financial asset's price. This equation, in essence, is an application of Ito's lemma, developed by Kiyoshi Ito, a fundamental theorem in stochastic calculus. The Black-Scholes model assumes a log-normal distribution of asset prices, a premise deeply rooted in the Central Limit Theorem and the work of Carl Friedrich Gauss.</p>
+<p>The Black-Scholes formula, which solves the Black-Scholes equation, calculates the price of a European call or put option. It is contingent on variables including the underlying asset's price, the option's strike price, the risk-free rate of return, the time until the option's expiry, and the volatility of the underlying asset's return. This formalization offered a significant advancement in options pricing, and in 1997, Scholes and Merton were awarded the Nobel Prize in Economic Sciences for their work, with Black posthumously acknowledged.</p>
+<h2>Criticisms and Blind Spots</h2>
+<p>Despite the model's wide acceptance, its premises have been subjected to scrutiny. Economists such as Eugene Fama and Kenneth French have criticized the assumption of log-normally distributed returns, arguing that asset returns exhibit leptokurtosis (or 'fat tails'). This observation suggests that extreme price movements occur more frequently than predicted by the model, a phenomenon evidenced during the 2008 financial crisis.</p>
+<p>Additionally, Nassim Nicholas Taleb argues in &quot;The Black Swan&quot; that the model's assumptions overlook rare, high-impact events, thereby underpricing risk. Similarly, Benoit Mandelbrot's work on fractal geometry and power-law distributions suggests that financial markets exhibit 'wild randomness', which is inadequately captured by the Gaussian assumption.</p>
+<p>Moreover, the presumption of constant volatility has been contested. Economists Robert Engle and Tim Bollerslev developed models (ARCH/GARCH) that account for changing volatility over time (volatility clustering), a common feature of financial markets.</p>
+<p>The efficient market hypothesis, the cornerstone of the Black-Scholes model, has been challenged by the emergence of behavioral finance. Scholars such as Richard Thaler and Daniel Kahneman contend that investors often act irrationally, violating the rationality assumption intrinsic to the model.</p>
+<h2>Conclusion</h2>
+<p>While the Black-Scholes model's limitations have been exposed, it remains an influential framework in financial engineering. The evolution of the model, echoing the words of Isaac Newton, truly stands on the &quot;shoulders of Giants&quot;. Its lineage can be traced through the annals of science and mathematics, encompassing the works of luminaries such as Pascal, Bernoulli, Wiener, and Ito, to name but a few.</p>
+<p>However, the model's assumptions have come under increasing scrutiny, and its inability to capture certain features of financial markets has engendered a wave of criticism. Future progress will invariably build upon, revise, and perhaps transcend the model, continuing the grand tradition of scientific advancement.</p>
+<p>The journey of understanding and application of the Black-Scholes model thus presents a fascinating case study in the philosophy of science, demonstrating the iterative process of knowledge accumulation, the application of theory to practical problems, and the continual refinement of our models in the face of empirical evidence and theoretical critique. In this light, the Black-Scholes model serves as an icon of not just financial engineering, but also the evolution of scientific epistemology.</p>
+
+    
+  </div>
+  
+  
+</div>
+
+<style type="text/css">
+.item {
+  margin-left: 7px;
+}
+</style>
+
+    </div>
+    <div id="aside-container">
+      
+      <div class="nav">
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../index.html" class="nav-link">Home</a>
+        </div>
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../about/" class="nav-link">About</a>
+        </div>
+        
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../tags.html" class="nav-link">Tags</a>
+        </div>
+        
+        <div class="nav-item">
+          <img class="nav-icon" />
+          <a href="../archive.html" class="nav-link">Archive</a>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  </div>
+</body>
+</html>
